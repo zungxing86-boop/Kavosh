@@ -1,0 +1,58 @@
+[
+  {
+    "id": "territory_discovery",
+    "order": 1,
+    "nameFa": "سرزمین کشف خود",
+    "nameEn": "Land of Self-Discovery",
+    "subtitleFa": "جزیره ناشناخته و قطب‌نمای استعدادها",
+    "subtitleEn": "Uncharted Island & Compass of Strengths",
+    "descriptionFa": "در این جزیره با کمک قطب‌نما، علایق پنهان، نقاط قوت و ارزش‌های شخصی‌ات را کشف می‌کنی.",
+    "descriptionEn": "On this island, use your compass to uncover hidden strengths, genuine interests, and core personal values.",
+    "dayStart": 1,
+    "dayEnd": 7,
+    "themeColorHex": "0xFF00B4D8",
+    "visualKey": "img_territory_discovery"
+  },
+  {
+    "id": "territory_learning",
+    "order": 2,
+    "nameFa": "سرزمین یادگیری",
+    "nameEn": "Land of Learning",
+    "subtitleFa": "آزمایشگاه علمی و کارگاه ساخت",
+    "subtitleEn": "Science Lab & Maker Workshop",
+    "descriptionFa": "اینجا آزمایشگاه کنجکاوی توست؛ یاد می‌گیری چطور مستقل بیاموزی، تحقیق کنی و بسازی.",
+    "descriptionEn": "Welcome to your curiosity lab—learn how to teach yourself, verify facts, and build creative solutions.",
+    "dayStart": 8,
+    "dayEnd": 14,
+    "themeColorHex": "0xFFFF7A2F",
+    "visualKey": "img_territory_learning"
+  },
+  {
+    "id": "territory_mind",
+    "order": 3,
+    "nameFa": "سرزمین قدرت ذهن",
+    "nameEn": "Land of Mind Power",
+    "subtitleFa": "مرکز فرماندهی تمرکز و اراده",
+    "subtitleEn": "Command Deck of Focus & Clarity",
+    "descriptionFa": "در اتاق کنترل ذهن، هنر تمرکز، مدیریت زمان، دوری از حواس‌پرتی و تصمیم‌های آگاهانه را تمرین می‌کنی.",
+    "descriptionEn": "Inside the mind command center, master focus, time design, distraction busting, and conscious choices.",
+    "dayStart": 15,
+    "dayEnd": 22,
+    "themeColorHex": "0xFF6C63FF",
+    "visualKey": "img_territory_mind"
+  },
+  {
+    "id": "territory_future",
+    "order": 4,
+    "nameFa": "سرزمین آینده‌سازان",
+    "nameEn": "Land of Future Makers",
+    "subtitleFa": "شهر آینده و پایگاه پروژه‌ها",
+    "subtitleEn": "Future City & Project Launchpad",
+    "descriptionFa": "اینجا ایده‌هایت را به پروژه‌های واقعی تبدیل می‌کنی، مسئولیت می‌پذیری و مسیر آینده‌ات را طراحی می‌کنی.",
+    "descriptionEn": "Turn ideas into real projects, practice ownership, manage resources, and design your next adventure.",
+    "dayStart": 23,
+    "dayEnd": 30,
+    "themeColorHex": "0xFFFFC145",
+    "visualKey": "img_territory_future"
+  }
+]

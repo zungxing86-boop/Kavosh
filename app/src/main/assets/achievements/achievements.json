@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ach_first_mission",
+    "titleFa": "اولین مأموریت",
+    "titleEn": "First Expedition",
+    "descriptionFa": "اولین مأموریت خودت را با موفقیت تجربه کردی و قدم به جهان کشف گذاشتی.",
+    "descriptionEn": "You completed your very first mission and stepped into the world of discovery.",
+    "criteriaFa": "تکمیل ۱ مأموریت",
+    "criteriaEn": "Complete 1 mission",
+    "territoryId": "territory_discovery",
+    "iconKey": "flag"
+  },
+  {
+    "id": "ach_curious_mind",
+    "titleFa": "ذهن کنجکاو",
+    "titleEn": "Curious Mind",
+    "descriptionFa": "با کنجکاوی سه مأموریت مختلف را تجربه کردی و بازتاب خودت را نوشتی.",
+    "descriptionEn": "You explored three missions and recorded your real reflections.",
+    "criteriaFa": "تکمیل ۳ مأموریت",
+    "criteriaEn": "Complete 3 missions",
+    "territoryId": "territory_discovery",
+    "iconKey": "psychology"
+  },
+  {
+    "id": "ach_discovery_explorer",
+    "titleFa": "کاوشگر جزیره",
+    "titleEn": "Island Explorer",
+    "descriptionFa": "بخش بزرگی از سرزمین کشف خود را پیمودی و نقاط قوتت را شناختی.",
+    "descriptionEn": "You explored most of the Land of Self-Discovery and mapped your strengths.",
+    "criteriaFa": "تکمیل ۵ مأموریت در سرزمین کشف خود",
+    "criteriaEn": "Complete 5 Discovery missions",
+    "territoryId": "territory_discovery",
+    "iconKey": "explore"
+  },
+  {
+    "id": "ach_independent_learner",
+    "titleFa": "یادگیرنده مستقل",
+    "titleEn": "Independent Learner",
+    "descriptionFa": "نشان دادی بدون نیاز به اجبار هم می‌توانی موضوع‌های تازه را یاد بگیری.",
+    "descriptionEn": "You proved you can teach yourself new topics driven by genuine curiosity.",
+    "criteriaFa": "تکمیل ۳ مأموریت در سرزمین یادگیری",
+    "criteriaEn": "Complete 3 Learning missions",
+    "territoryId": "territory_learning",
+    "iconKey": "school"
+  },
+  {
+    "id": "ach_little_teacher",
+    "titleFa": "معلم کوچک",
+    "titleEn": "Young Mentor",
+    "descriptionFa": "چیزی که یاد گرفته بودی را به زبان ساده به شخص دیگری آموزش دادی.",
+    "descriptionEn": "You taught something you learned clearly to someone else.",
+    "criteriaFa": "تکمیل مأموریت روز ۹ (معلم کوچک)",
+    "criteriaEn": "Complete Day 9 (Young Mentor)",
+    "territoryId": "territory_learning",
+    "iconKey": "record_voice_over"
+  },
+  {
+    "id": "ach_creative_builder",
+    "titleFa": "سازنده",
+    "titleEn": "Creator",
+    "descriptionFa": "از مرحله فکر فراتر رفتی و دست به ساختن یک ایده یا پروژه واقعی زدی.",
+    "descriptionEn": "You went beyond thinking and started building an actual idea or project.",
+    "criteriaFa": "ساخت ۱ پروژه شخصی یا تکمیل مأموریت روز ۱۰",
+    "criteriaEn": "Create a personal project or complete Day 10",
+    "territoryId": "territory_learning",
+    "iconKey": "build"
+  },
+  {
+    "id": "ach_problem_solver",
+    "titleFa": "حل‌کننده مسئله",
+    "titleEn": "Problem Solver",
+    "descriptionFa": "در برابر یک چالش واقعی دنبال راه‌حل عملی گشتی و آن را آزمایش کردی.",
+    "descriptionEn": "You tackled a real-world problem with structured ideas and testing.",
+    "criteriaFa": "تکمیل مأموریت روز ۱۲ یا ۲۸",
+    "criteriaEn": "Complete Day 12 or Day 28",
+    "territoryId": "territory_learning",
+    "iconKey": "extension"
+  },
+  {
+    "id": "ach_focused_mind",
+    "titleFa": "ذهن متمرکز",
+    "titleEn": "Focused Mind",
+    "descriptionFa": "با تمرین تمرکز و مدیریت حواس‌پرتی، کنترل فرماندهی ذهن را به دست گرفتی.",
+    "descriptionEn": "You practiced deep focus and took command of distractions.",
+    "criteriaFa": "تکمیل ۳ مأموریت در سرزمین قدرت ذهن",
+    "criteriaEn": "Complete 3 Mind Power missions",
+    "territoryId": "territory_mind",
+    "iconKey": "center_focus_strong"
+  },
+  {
+    "id": "ach_all_skills",
+    "titleFa": "کاوشگر همه‌جانبه",
+    "titleEn": "Well-Rounded Explorer",
+    "descriptionFa": "هر پنج مهارت اصلی ماجراجویی را در تجربه‌های واقعی تمرین کردی.",
+    "descriptionEn": "You practiced all five core journey skills through real activities.",
+    "criteriaFa": "تجربه کردن هر ۵ مهارت اصلی",
+    "criteriaEn": "Practice all 5 core skills",
+    "territoryId": "territory_mind",
+    "iconKey": "auto_awesome"
+  },
+  {
+    "id": "ach_journal_keeper",
+    "titleFa": "نویسنده دفترچه",
+    "titleEn": "Journal Keeper",
+    "descriptionFa": "افکار و ایده‌هایت را در فضای امن دفترچه خصوصی ثبت و مرور کردی.",
+    "descriptionEn": "You recorded thoughts and ideas in your private personal journal.",
+    "criteriaFa": "ثبت ۳ یادداشت در دفترچه خصوصی",
+    "criteriaEn": "Write 3 private journal entries",
+    "territoryId": null,
+    "iconKey": "menu_book"
+  },
+  {
+    "id": "ach_future_maker",
+    "titleFa": "آینده‌ساز",
+    "titleEn": "Future Maker",
+    "descriptionFa": "یک پروژه شخصی را به سرانجام رساندی یا سرزمین آینده‌سازان را فتح کردی.",
+    "descriptionEn": "You completed a personal project or explored the Land of Future Makers.",
+    "criteriaFa": "تکمیل ۱ پروژه یا ۴ مأموریت سرزمین آینده‌سازان",
+    "criteriaEn": "Complete 1 project or 4 Future Makers missions",
+    "territoryId": "territory_future",
+    "iconKey": "rocket_launch"
+  },
+  {
+    "id": "ach_path_master",
+    "titleFa": "مسیرساز",
+    "titleEn": "Path Maker",
+    "descriptionFa": "بیش از بیست مأموریت را پشت سر گذاشتی و سبک یادگیری خودت را ساختی.",
+    "descriptionEn": "You completed 20+ missions and shaped your own personal learning style.",
+    "criteriaFa": "تکمیل ۲۰ مأموریت",
+    "criteriaEn": "Complete 20 missions",
+    "territoryId": "territory_future",
+    "iconKey": "emoji_events"
+  }
+]

@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "mission_01",
+    "dayNumber": 1,
+    "titleFa": "نقشه گنج توانایی‌های من",
+    "titleEn": "Treasure Map of My Strengths",
+    "shortDescFa": "نقاط قوت واقعی خودت را پیدا کن و روی یک نقشه گنج شخصی بکش.",
+    "shortDescEn": "Discover your real strengths and sketch them onto a personal treasure map.",
+    "storyFa": "در ساحل جزیره کشف خود، یک قطب‌نمای قدیمی پیدا می‌کنی که عقربه‌اش به جای شمال، به سمت کارهایی می‌چرخد که در آن‌ها می‌درخشی.",
+    "storyEn": "On the shore of Self-Discovery Island, you find a compass that points not north, but toward the abilities where you naturally shine.",
+    "goalFa": "شناسایی حداقل ۵ توانایی یا ویژگی مثبت شخصی از روی تجربه‌های واقعی",
+    "goalEn": "Identify at least 5 real personal strengths backed by actual life moments.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_curiosity", "skill_responsibility"],
+    "relatedInterests": ["int_art", "int_books", "int_games"],
+    "toolsFa": ["یک برگ کاغذ یا دفترچه برنامه", "مداد یا خودکار رنگی"],
+    "toolsEn": ["A sheet of paper or the in-app journal", "Pen or colored markers"],
+    "stepsFa": [
+      "سه کاری که در ماه گذشته انجام دادی و از آن‌ها حس خوب گرفتی را بنویس.",
+      "فکر کن دوستان یا خانواده‌ات معمولاً برای چه کاری از تو کمک می‌خواهند.",
+      "پنج توانایی مشخص (مثلاً صبوری، ایده‌پردازی، ساختن چیزها، توضیح دادن خوب) را انتخاب کن.",
+      "برای هر توانایی یک «جزیره» روی نقشه بکش یا در بخش نتیجه نامشان را بنویس."
+    ],
+    "stepsEn": [
+      "List three things you did last month that gave you a real sense of pride.",
+      "Think about what friends or family usually ask for your help with.",
+      "Pick five specific strengths (e.g., patience, brainstorming, fixing things, clear explaining).",
+      "Draw a treasure island for each strength or record them in your mission result."
+    ],
+    "expectedOutputFa": "فهرست ۵ توانایی همراه با یک مثال واقعی برای هرکدام",
+    "expectedOutputEn": "A list of 5 personal strengths with one real example for each.",
+    "shortVersionFa": "در ۵ دقیقه فقط ۳ توانایی خودت را نام ببر و بنویس کجا به کارت آمده‌اند.",
+    "shortVersionEn": "In 5 minutes, name just 3 strengths and one time each helped you.",
+    "reflectionQuestionsFa": [
+      "کدام توانایی‌ات برایت شگفت‌انگیزتر بود؟",
+      "در هفته آینده چطور می‌توانی از یکی از این توانایی‌ها بیشتر استفاده کنی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Which strength surprised you the most?",
+      "How can you use one of these strengths this coming week?"
+    ],
+    "startGuideFa": "نیازی به نقاشی حرفه‌ای نیست؛ حتی نوشتن ۵ مورد با علامت ستاره یک نقشه عالی است.",
+    "startGuideEn": "No fancy art needed—even five bullet points with stars make a great map.",
+    "territoryId": "territory_discovery",
+    "imageKey": "img_territory_discovery"
+  },
+  {
+    "id": "mission_02",
+    "dayNumber": 2,
+    "titleFa": "ملاقات با خود آینده",
+    "titleEn": "Meet Your Future Self",
+    "shortDescFa": "یک پیام دوستانه برای خودت در ۵ سال آینده بنویس و تصور کن چطور رشد کرده‌ای.",
+    "shortDescEn": "Write a friendly message to your 5-years-older self and imagine your growth.",
+    "storyFa": "تلگراف زمان جزیره برای سه دقیقه وصل شده است و می‌توانی از آینده الهام بگیری.",
+    "storyEn": "The island time-radio hums to life, giving you three quiet minutes to connect with your future self.",
+    "goalFa": "تصور روشن‌تر از مسیر رشد و مهارت‌هایی که دوست داری در آینده داشته باشی",
+    "goalEn": "Build a motivating vision of skills and habits you want to grow.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_planning", "skill_curiosity"],
+    "relatedInterests": ["int_books", "int_space", "int_art"],
+    "toolsFa": ["دفترچه خصوصی یا برگه کاغذ"],
+    "toolsEn": ["Private journal or notebook"],
+    "stepsFa": [
+      "چشم‌هایت را ببند و تصور کن ۱۸ یا ۱۹ ساله شده‌ای.",
+      "بنویس آن نسخه از تو چه مهارت‌هایی بلد است و چه کارهای باحالی می‌سازد.",
+      "سه سؤال کنجکاوانه از خود آینده‌ات بپرس.",
+      "یک توصیه کوچک برای خودِ امروزت بنویس."
+    ],
+    "stepsEn": [
+      "Imagine yourself five years from today.",
+      "Write down what skills your future self has practiced and what cool things you build.",
+      "Ask your future self three curious questions.",
+      "Write one encouraging tip from your future self to you today."
+    ],
+    "expectedOutputFa": "یک نامه کوتاه ۵ تا ۱۰ خطی خطاب به خود آینده",
+    "expectedOutputEn": "A short 5-10 line letter addressed to your future self.",
+    "shortVersionFa": "در ۵ دقیقه ۳ جمله بنویس که دوست داری در ۱۸ سالگی یادت باشد.",
+    "shortVersionEn": "In 5 minutes, write 3 sentences you want your 18-year-old self to remember.",
+    "reflectionQuestionsFa": [
+      "چه بخشی از تصویر آینده‌ات بیشترین هیجان را به تو داد؟",
+      "کوچک‌ترین قدم امروز به سمت آن تصویر چیست؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Which part of your future vision excited you the most?",
+      "What is one tiny step toward it today?"
+    ],
+    "startGuideFa": "با «سلام منِ آینده!» شروع کن و راحت مثل یک دوست حرف بزن.",
+    "startGuideEn": "Start with 'Hey Future Me!' and write casually like talking to a close friend.",
+    "territoryId": "territory_discovery",
+    "imageKey": "img_territory_discovery"
+  },
+  {
+    "id": "mission_03",
+    "dayNumber": 3,
+    "titleFa": "پنج سؤال بزرگ",
+    "titleEn": "Five Big Questions",
+    "shortDescFa": "پنج پرسش عمیق درباره جهان، علم یا زندگی که همیشه دوست داشتی جوابشان را بدانی بنویس.",
+    "shortDescEn": "Capture five big questions about science, life, or how things work that genuinely intrigue you.",
+    "storyFa": "در برج دیده‌بانی جزیره، تابلویی هست که به جای جواب‌ها، پر از سؤال‌های شگفت‌انگیز است.",
+    "storyEn": "At the island lookout tower hangs a board filled not with answers, but with awesome unanswered questions.",
+    "goalFa": "بیدار کردن کنجکاوی هدفمند و انتخاب یک پرسش برای جست‌وجوی اولیه",
+    "goalEn": "Spark active curiosity and pick one question for a quick mini-investigation.",
+    "durationMinutes": 10,
+    "durationCategory": "SHORT",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_curiosity", "skill_creativity"],
+    "relatedInterests": ["int_science", "int_space", "int_history"],
+    "toolsFa": ["کاغذ یادداشت یا بخش نتیجه همین مأموریت"],
+    "toolsEn": ["Scratchpad or mission result field"],
+    "stepsFa": [
+      "هر چیزی که همیشه برایت «چرا؟» یا «چطور؟» بوده را بدون سانسور بنویس.",
+      "پنج تا از جالب‌ترین سؤال‌هایت را انتخاب کن.",
+      "یکی از آن‌ها را نشان‌دار کن و درباره سرنخ اولش فکر کن."
+    ],
+    "stepsEn": [
+      "Brainstorm anything you've ever wondered 'why?' or 'how?' about.",
+      "Select your top five most fascinating questions.",
+      "Star one question and jot down how you could explore it."
+    ],
+    "expectedOutputFa": "فهرست ۵ سؤال بزرگ + یک سؤال برگزیده برای کاوش",
+    "expectedOutputEn": "5 big questions plus 1 selected question to explore next.",
+    "shortVersionFa": "در ۵ دقیقه فقط ۳ سؤال «چرا؟» که امروز به ذهنت رسید بنویس.",
+    "shortVersionEn": "In 5 minutes, write 3 'why?' questions that crossed your mind today.",
+    "reflectionQuestionsFa": [
+      "چرا این پرسش برگزیده برایت مهم است؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Why does your starred question stand out to you?"
+    ],
+    "startGuideFa": "سؤال خوب اصلاً نباید خجالت‌آور یا سخت باشد؛ ساده‌ترین چراها بهترین اکتشاف‌ها را می‌سازند.",
+    "startGuideEn": "Great questions don't have to sound fancy—simple 'why' questions start the best discoveries.",
+    "territoryId": "territory_discovery",
+    "imageKey": "img_territory_discovery"
+  },
+  {
+    "id": "mission_04",
+    "dayNumber": 4,
+    "titleFa": "کارآگاه علاقه‌ها",
+    "titleEn": "Interest Detective",
+    "shortDescFa": "مثل یک کارآگاه سرنخ‌های علاقه واقعی‌ات را از کارهای روزمره بیرون بکش.",
+    "shortDescEn": "Play detective and uncover clues about your real interests from daily habits.",
+    "storyFa": "کارآگاه علاقه‌ها می‌داند علاقه‌های واقعی فقط در شعار نیستند؛ آن‌ها در وقت‌های آزاد تو پنهان شده‌اند!",
+    "storyEn": "An Interest Detective knows real passions hide in what you choose to do when nobody assigns anything.",
+    "goalFa": "تفکیک علاقه‌های واقعی خودت از چیزهایی که فقط دیگران دوست دارند",
+    "goalEn": "Spot your genuine interests versus things others merely expect.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_curiosity", "skill_responsibility"],
+    "relatedInterests": ["int_games", "int_music", "int_sports", "int_coding"],
+    "toolsFa": ["دفترچه یا جدول سه ستونی روی کاغذ"],
+    "toolsEn": ["Notebook or quick 3-column sheet"],
+    "stepsFa": [
+      "سه موضوعی که وقتی وقت آزاد داری خودت سراغشان می‌روی را بنویس.",
+      "بنویس در ویدئوها، کتاب‌ها یا بازی‌ها چه چیزهایی بیشتر حواست را می‌گیرند.",
+      "اگر می‌توانستی یک هفته تمام فقط روی یک موضوع وقت بگذاری، چه بود؟",
+      "علایق پروفایلت را بر اساس این سرنخ‌ها مرور و به‌روزرسانی کن."
+    ],
+    "stepsEn": [
+      "Write 3 activities you naturally gravitate toward during free time.",
+      "Note what themes hook you in books, videos, or games.",
+      "If you had one whole free week for one topic, what would it be?",
+      "Review your selected interests in the app based on your clues."
+    ],
+    "expectedOutputFa": "۳ سرنخ کشف‌شده + ۲ علاقه جدید برای امتحان کردن",
+    "expectedOutputEn": "3 discovered interest clues + 2 new topics to test.",
+    "shortVersionFa": "در ۵ دقیقه بنویس دیروز در وقت آزادت بیشتر به چه چیزی فکر کردی.",
+    "shortVersionEn": "In 5 minutes, write what topic grabbed your free attention yesterday.",
+    "reflectionQuestionsFa": [
+      "آیا سرنخی پیدا کردی که قبلاً به آن توجه نکرده بودی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Did you uncover a clue you hadn't noticed before?"
+    ],
+    "startGuideFa": "به آخرین باری فکر کن که آن‌قدر سرگرم بودی که گذر زمان را حس نکردی.",
+    "startGuideEn": "Think of the last time you were so absorbed in something that you lost track of time.",
+    "territoryId": "territory_discovery",
+    "imageKey": "img_territory_discovery"
+  },
+  {
+    "id": "mission_05",
+    "dayNumber": 5,
+    "titleFa": "آزمایش کوچک",
+    "titleEn": "Mini Experiment",
+    "shortDescFa": "یک کار تازه که همیشه می‌خواستی امتحان کنی را در مقیاس ۱۵ دقیقه‌ای آزمایش کن.",
+    "shortDescEn": "Test out a brand-new activity you've been curious about in a small 15-minute trial.",
+    "storyFa": "دانشمندان قبل از ساختن موشک بزرگ، یک مدل کاغذی را آزمایش می‌کنند. امروز روز تست کوچک توست!",
+    "storyEn": "Engineers test a paper glider before launching a rocket. Today is your low-stakes test flight!",
+    "goalFa": "غلبه بر ترس از شروع چیزهای تازه با آزمایش ۱۵ دقیقه‌ای بدون فشار نتیجه عالی",
+    "goalEn": "Beat starter hesitation with a playful 15-minute experiment.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_creativity", "skill_curiosity"],
+    "relatedInterests": ["int_science", "int_crafts", "int_coding", "int_art"],
+    "toolsFa": ["هر وسیله ساده مرتبط با آزمایش انتخابی‌ات"],
+    "toolsEn": ["Whatever simple item fits your chosen 15-minute experiment"],
+    "stepsFa": [
+      "یک کار کوچک انتخاب کن (مثلاً طراحی یک لوگو، نوشتن ۱۰ خط کد، یک آزمایش علمی خانگی یا یک تمرین ریتم).",
+      "تایمر ۱۵ دقیقه‌ای بگذار و فقط با روحیه «ببینیم چه می‌شود!» شروع کن.",
+      "نتیجه را ببین و یادداشت کن چه چیزی از این تجربه یاد گرفتی."
+    ],
+    "stepsEn": [
+      "Pick one mini-experiment (sketch a logo, write 10 lines of code, try an origami bridge, or test a kitchen science trick).",
+      "Set a 15-minute timer with a 'let's see what happens!' mindset.",
+      "Observe what happened and write down one takeaway."
+    ],
+    "expectedOutputFa": "یک خروجی کوچک آزمایشی + یادداشت تجربه",
+    "expectedOutputEn": "A tiny prototype or experiment result + one learning note.",
+    "shortVersionFa": "در ۵ دقیقه یک طرح اولیه کاغذی یا یک خط ایده برای آزمایش بکش.",
+    "shortVersionEn": "In 5 minutes, sketch a quick paper mockup of an experiment you want to try.",
+    "reflectionQuestionsFa": [
+      "انجامش سخت‌تر از تصورت بود یا راحت‌تر؟",
+      "آیا دوست داری دوباره ادامه‌اش بدهی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Was trying it easier or harder than you expected?",
+      "Would you like to run round two?"
+    ],
+    "startGuideFa": "هدف این آزمایش بی‌نقص بودن نیست؛ هدف فقط «تجربه کردن» است.",
+    "startGuideEn": "The goal isn't perfection—it's pure curiosity in action.",
+    "territoryId": "territory_discovery",
+    "imageKey": "img_territory_discovery"
+  },
+  {
+    "id": "mission_06",
+    "dayNumber": 6,
+    "titleFa": "کشف استعداد پنهان",
+    "titleEn": "Hidden Talent Hunt",
+    "shortDescFa": "سه موقعیت چالش‌برانگیز گذشته را مرور کن و ببین چه مهارتی در آن‌ها نجاتت داد.",
+    "shortDescEn": "Look back at three tricky moments and spot the hidden skill that helped you through.",
+    "storyFa": "گاهی استعدادهای اصلی ما نه در وقت آسانی، بلکه در لحظه‌هایی دیده می‌شوند که باهوش‌ترین راه‌حل را پیدا می‌کنیم.",
+    "storyEn": "Hidden talents often show up not when everything is easy, but when you improvise a smart way out.",
+    "goalFa": "کشف توانایی‌های پنهانی که در حل مشکلات روزمره از آن‌ها استفاده کرده‌ای",
+    "goalEn": "Recognize overlooked abilities you already used in real situations.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_responsibility", "skill_creativity"],
+    "relatedInterests": ["int_games", "int_books", "int_entrepreneur"],
+    "toolsFa": ["دفترچه یا گفت‌وگوی کوتاه با یک عضو خانواده/دوست"],
+    "toolsEn": ["Journal or quick chat with a friend/family member"],
+    "stepsFa": [
+      "دو موقعیتی را به یاد بیاور که ابتدا به نظر سخت می‌آمدند ولی از پسشان برآمدی.",
+      "بنویس دقیقاً چه کاری کردی (مثلاً آرام ماندی، سؤال پرسیدی، از وسایل دم‌دستی استفاده کردی).",
+      "از یک نفر نزدیکت بپرس: «به نظرت من در چه کاری بهتر از بقیه‌ام؟»"
+    ],
+    "stepsEn": [
+      "Recall two moments that seemed tough at first but you handled.",
+      "Write down what you actually did (stayed calm, asked smart questions, improvised).",
+      "Ask one person you trust: 'What is one thing I'm surprisingly good at?'"
+    ],
+    "expectedOutputFa": "ثبت دو استعداد پنهان کشف‌شده از تجربه‌های واقعی",
+    "expectedOutputEn": "Two newly spotted hidden talents backed by real stories.",
+    "shortVersionFa": "در ۵ دقیقه یک بار که مشکلی را خلاقانه حل کردی یادداشت کن.",
+    "shortVersionEn": "In 5 minutes, jot down one time you solved an unexpected snag.",
+    "reflectionQuestionsFa": [
+      "کدام جمله دوست یا خانواده‌ات تو را خوشحال‌تر کرد؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What observation from someone else made you smile or think?"
+    ],
+    "startGuideFa": "استعداد فقط موسیقی یا ریاضی نیست؛ خوب گوش دادن، نظم‌دهی یا شوخ‌طبعی هم استعدادند.",
+    "startGuideEn": "Talents aren't just math or drawing—calming people down, organizing, or spotting details count too!",
+    "territoryId": "territory_discovery",
+    "imageKey": "img_territory_discovery"
+  },
+  {
+    "id": "mission_07",
+    "dayNumber": 7,
+    "titleFa": "گزارش اولین ماجراجویی",
+    "titleEn": "First Expedition Log",
+    "shortDescFa": "جمع‌بندی هفته اول در جزیره کشف خود و آماده شدن برای عبور به سرزمین یادگیری.",
+    "shortDescEn": "Wrap up Week 1 on Self-Discovery Island and chart your course toward Learning Land.",
+    "storyFa": "قایق کاوشگران آماده حرکت به سمت سرزمین بعدی است! قبل از حرکت، دفتر گزارش کاپیتان را پر کن.",
+    "storyEn": "The explorer skiff is ready to sail toward the next territory! Record your captain's log before departure.",
+    "goalFa": "مرور آموخته‌های هفته اول و انتخاب یک هدف یادگیری برای هفته دوم",
+    "goalEn": "Synthesize Week 1 discoveries and choose one focus skill for Week 2.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_planning", "skill_responsibility"],
+    "relatedInterests": ["int_books", "int_history", "int_science"],
+    "toolsFa": ["دفترچه خصوصی برنامه یا برگه مرور مأموریت‌ها"],
+    "toolsEn": ["Private Journal or Mission Summary"],
+    "stepsFa": [
+      "مهم‌ترین چیزی که در روزهای ۱ تا ۶ درباره خودت فهمیدی را در ۳ سطر بنویس.",
+      "یک توانایی خودت را به عنوان «قطب‌نمای شخصی» انتخاب کن.",
+      "مشخص کن در سرزمین یادگیری دوست داری چه مهارتی را امتحان کنی."
+    ],
+    "stepsEn": [
+      "Summarize the biggest thing you learned about yourself across Days 1-6.",
+      "Pick one strength as your personal compass for Week 2.",
+      "Name one skill you want to test inside the Land of Learning."
+    ],
+    "expectedOutputFa": "گزارش خلاصه هفته اول + انتخاب مهارت هفته بعد",
+    "expectedOutputEn": "A 3-line Week 1 expedition log + chosen Week 2 focus.",
+    "shortVersionFa": "در ۵ دقیقه فقط یک جمله به عنوان «بهترین کشف این هفته» بنویس.",
+    "shortVersionEn": "In 5 minutes, write one headline for your biggest discovery this week.",
+    "reflectionQuestionsFa": [
+      "اگر به روز اول برگردی، چه نکته‌ای را به خودت می‌گویی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What would you tell your Day-1 self right now?"
+    ],
+    "startGuideFa": "لازم نیست هر ۶ روز قبلی را کامل کرده باشی تا گزارش بنویسی؛ از همین‌جا شروع کن.",
+    "startGuideEn": "You don't need every earlier day checked off—reflect on whatever you've explored so far.",
+    "territoryId": "territory_discovery",
+    "imageKey": "img_territory_discovery"
+  },
+  {
+    "id": "mission_08",
+    "dayNumber": 8,
+    "titleFa": "مهارت جدید در یک روز",
+    "titleEn": "New Skill in a Day",
+    "shortDescFa": "یک مهارت کوچک و جذاب انتخاب کن و در ۲۵ دقیقه اصول اولیه‌اش را مستقل یاد بگیر.",
+    "shortDescEn": "Choose a bite-sized skill and teach yourself the basics independently in 25 minutes.",
+    "storyFa": "به آزمایشگاه سرزمین یادگیری خوش آمدی! اینجا کسی تکلیف نمی‌دهد؛ خودت انتخاب می‌کنی چه یاد بگیری.",
+    "storyEn": "Welcome to the Learning Lab! Nobody assigns topics here—you choose what to master next.",
+    "goalFa": "تجربه چرخه کامل یادگیری مستقل در یک بازه کوتاه",
+    "goalEn": "Experience a full self-directed learning sprint from curiosity to practice.",
+    "durationMinutes": 25,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_curiosity", "skill_focus"],
+    "relatedInterests": ["int_coding", "int_crafts", "int_music", "int_art"],
+    "toolsFa": ["یک منبع آموزشی معتبر (کتاب، راهنما یا ویدئو)", "وسایل تمرین"],
+    "toolsEn": ["One trusted guide/book/tutorial", "Practice tools"],
+    "stepsFa": [
+      "یک مهارت میکرو انتخاب کن (مثلاً گره‌زدن دریانوردی، طراحی سایه‌روشن، ساخت یک انیمیشن ساده، یا یادگیری ۱۰ واژه تخصصی).",
+      "۱۰ دقیقه منبع را ببین و ۳ نکته اصلی‌اش را یادداشت کن.",
+      "۱۵ دقیقه بدون نگاه کردن به منبع، خودت تمرین کن.",
+      "نتیجه تمرین اولت را ثبت کن."
+    ],
+    "stepsEn": [
+      "Pick a micro-skill (e.g., 3D cube shading, a basic knot, CSS flexbox card, or 5 chords/patterns).",
+      "Spend 10 minutes learning from one clear source and jotting 3 notes.",
+      "Spend 15 minutes practicing hands-on without peeking.",
+      "Log what you pulled off on attempt #1."
+    ],
+    "expectedOutputFa": "۳ نکته کلیدی + نتیجه اولین تمرین عملی",
+    "expectedOutputEn": "3 key notes + your first hands-on attempt.",
+    "shortVersionFa": "در ۱۰ دقیقه فقط یک تکنیک بسیار کوچک را ببین و یک بار انجامش بده.",
+    "shortVersionEn": "In 10 minutes, learn one tiny technique and try it once.",
+    "reflectionQuestionsFa": [
+      "وقتی خودت موضوع را انتخاب کردی، انگیزه‌ات چطور بود؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How did choosing the skill yourself affect your motivation?"
+    ],
+    "startGuideFa": "مهارت کوچک یعنی کاری که در یک نشست قابل تمرین باشد، نه کل یک رشته بزرگ.",
+    "startGuideEn": "Keep it micro—one stitch, one loop, one sketch, not a whole textbook.",
+    "territoryId": "territory_learning",
+    "imageKey": "img_territory_learning"
+  },
+  {
+    "id": "mission_09",
+    "dayNumber": 9,
+    "titleFa": "معلم کوچک",
+    "titleEn": "Young Mentor",
+    "shortDescFa": "چیزی که بلدی یا تازه یاد گرفتی را در ۲ دقیقه خیلی ساده برای یک نفر توضیح بده.",
+    "shortDescEn": "Explain something you learned in 2 simple minutes to a friend, sibling, or family member.",
+    "storyFa": "راز اساتید آزمایشگاه این است: تا وقتی چیزی را به زبان ساده به دیگری یاد ندهی، کاملاً مال تو نشده!",
+    "storyEn": "Here is the Learning Lab secret: you truly own an idea once you can teach it simply to someone else.",
+    "goalFa": "تعمیم و تثبیت یادگیری با تکنیک فاینمن (ساده‌سازی برای آموزش)",
+    "goalEn": "Lock in understanding using the Feynman technique—explaining simply.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "GROUP",
+    "relatedSkills": ["skill_curiosity", "skill_responsibility"],
+    "relatedInterests": ["int_science", "int_books", "int_history"],
+    "toolsFa": ["کاغذ برای کشیدن مثال یا خودت و یک شنونده"],
+    "toolsEn": ["Scratch paper for a quick example + one listener"],
+    "stepsFa": [
+      "موضوع ساده‌ای که از مأموریت قبل یا درس/علاقه‌ات بلدی انتخاب کن.",
+      "سه مثال روزمره برای توضیحش آماده کن (بدون کلمات پیچیده).",
+      "آن را در ۲ دقیقه برای دوست، خواهر/برادر یا یکی از والدین توضیح بده یا صدایش را با خودت تمرین کن."
+    ],
+    "stepsEn": [
+      "Pick one concept you understand well.",
+      "Prepare one everyday analogy without jargon.",
+      "Teach it in 2 minutes to someone nearby—or explain it aloud clearly to an imaginary audience."
+    ],
+    "expectedOutputFa": "خلاصه ۲ دقیقه‌ای آموزش‌ات + واکنش شنونده",
+    "expectedOutputEn": "Your 2-minute plain-language explanation + what clicked for your listener.",
+    "shortVersionFa": "در ۵ دقیقه یک پاراگراف طوری بنویس که یک کودک ۸ ساله هم متوجهش شود.",
+    "shortVersionEn": "In 5 minutes, write one short paragraph explaining an idea so an 8-year-old gets it.",
+    "reflectionQuestionsFa": [
+      "موقع توضیح دادن کدام بخش برایت سخت‌تر شد؟ همان بخش را بیشتر کشف کن!"
+    ],
+    "reflectionQuestionsEn": [
+      "Which part felt trickiest to explain simply?"
+    ],
+    "startGuideFa": "از مثال‌های روزمره مثل پختن غذا، بازی فوتبال یا لگو استفاده کن.",
+    "startGuideEn": "Use everyday analogies like cooking, LEGO bricks, or sports plays.",
+    "territoryId": "territory_learning",
+    "imageKey": "img_territory_learning"
+  },
+  {
+    "id": "mission_10",
+    "dayNumber": 10,
+    "titleFa": "سازنده خلاق",
+    "titleEn": "Creative Builder",
+    "shortDescFa": "با وسایل ساده یا ابزار دیجیتال، یک نمونه اولیه کوچک از یک ایده بساز.",
+    "shortDescEn": "Build a quick working prototype of an idea using simple household or digital tools.",
+    "storyFa": "در کارگاه ساخت، ایده‌ها روی کاغذ نمی‌مانند؛ آن‌ها با چسب، مقوا، کد یا قلم جان می‌گیرند.",
+    "storyEn": "Inside the Maker Workshop, ideas leave paper and come alive with cardboard, code, or sketches.",
+    "goalFa": "تبدیل یک فکر ذهنی به شیء یا فایل قابل مشاهده",
+    "goalEn": "Turn a mental idea into something tangible you can hold or demo.",
+    "durationMinutes": 30,
+    "durationCategory": "LONG",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_creativity", "skill_planning"],
+    "relatedInterests": ["int_crafts", "int_engineering", "int_robotics", "int_art"],
+    "toolsFa": ["مقوا/کاغذ/لوازم بازیافتی یا اپ طراحی/کدنویسی"],
+    "toolsEn": ["Recycled cardboard/paper/tape or a digital design/code tool"],
+    "stepsFa": [
+      "یک مشکل کوچک روی میز یا اتاقت پیدا کن (مثلاً شلوغی سیم‌ها، جا نداشتن مدادها یا یادآوری برنامه).",
+      "سه طرح سریع برای حلش روی کاغذ بکش.",
+      "در ۲۰ دقیقه یک نمونه اولیه خیلی ساده بساز.",
+      "اگر دوست داشتی آن را در آزمایشگاه پروژه‌ها ثبت کن."
+    ],
+    "stepsEn": [
+      "Spot a tiny everyday annoyance on your desk or screen.",
+      "Sketch 3 quick design ideas in 3 minutes.",
+      "Build a rough version-0.1 prototype in 20 minutes.",
+      "Optionally save it into your Project Lab!"
+    ],
+    "expectedOutputFa": "یک نمونه اولیه واقعی یا طرح سه‌بعدی/دیجیتال",
+    "expectedOutputEn": "A rough version-0.1 physical or digital prototype.",
+    "shortVersionFa": "در ۱۰ دقیقه فقط طرح اولیه (اسکچ) ۳ نمای اختراع کوچکت را بکش.",
+    "shortVersionEn": "In 10 minutes, draw a labeled blueprint sketch of your mini-invention.",
+    "reflectionQuestionsFa": [
+      "اگر نسخه دوم این سازه را بسازی، چه تغییری می‌دهی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What single improvement would you make in version 0.2?"
+    ],
+    "startGuideFa": "نسخه اول قرار است زشت و ساده باشد؛ مهم این است که کار کند یا ایده‌ات را نشان دهد.",
+    "startGuideEn": "Version 0.1 is meant to be scrappy—make it exist first, polish later.",
+    "territoryId": "territory_learning",
+    "imageKey": "img_territory_learning"
+  },
+  {
+    "id": "mission_11",
+    "dayNumber": 11,
+    "titleFa": "حقیقت‌سنجی",
+    "titleEn": "Fact Checker",
+    "shortDescFa": "یک خبر یا نکته عجیب اینترنتی را با ۳ قانون کارآگاه اطلاعات بررسی کن.",
+    "shortDescEn": "Inspect one surprising viral claim using three information-detective rules.",
+    "storyFa": "در کتابخانه بزرگ یادگیری، هر کتابی درست نیست؛ تو باید بتوانی حقیقت را از شایعه تشخیص بدهی.",
+    "storyEn": "Not every scroll in the grand library is accurate—sharp explorers verify before believing.",
+    "goalFa": "تقویت تفکر انتقادی و تشخیص منبع معتبر",
+    "goalEn": "Practice critical thinking and evaluating source credibility.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_curiosity", "skill_focus"],
+    "relatedInterests": ["int_science", "int_history", "int_books"],
+    "toolsFa": ["یک خبر، ویدئو یا پست علمی که اخیراً دیدی"],
+    "toolsEn": ["One surprising claim or post you saw recently"],
+    "stepsFa": [
+      "یک ادعا یا «دانستنی» عجیب که اخیراً شنیدی را بنویس.",
+      "سه پرسش بپرس: منبع اصلی کیست؟ آیا مدرک یا پژوهش آورده؟ آیا منبع معتبر دیگری تأییدش می‌کند؟",
+      "در ماژول تفکر انتقادی «همراه من» هم می‌توانی مراحل را مرور کنی.",
+      "نتیجه بررسی‌ات را ثبت کن: معتبر، مشکوک یا نادرست؟"
+    ],
+    "stepsEn": [
+      "Pick one surprising 'fun fact' or viral post you came across lately.",
+      "Check 3 questions: Who is the original source? What evidence is shown? Do 2 independent sources agree?",
+      "Write your verdict: Verified, Needs more proof, or Misleading."
+    ],
+    "expectedOutputFa": "گزارش حقیقت‌سنجی ۳ مرحله‌ای برای یک ادعا",
+    "expectedOutputEn": "A 3-step fact-check breakdown for one claim.",
+    "shortVersionFa": "در ۵ دقیقه برای یک جمله خبری تفاوت «واقعیت قابل اثبات» و «نظر شخصی» را بنویس.",
+    "shortVersionEn": "In 5 minutes, separate fact from opinion in one headline you saw.",
+    "reflectionQuestionsFa": [
+      "چطور بفهمیم یک پست صرفاً برای جلب توجه ساخته شده است؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What red flags show a post was made just for clicks?"
+    ],
+    "startGuideFa": "ادعاهای خیلی هیجانی که می‌گویند «هیچ‌کس نمی‌داند!» معمولاً بیشتر نیاز به بررسی دارند.",
+    "startGuideEn": "Claims shouting 'Nobody knows this secret!' deserve extra double-checking.",
+    "territoryId": "territory_learning",
+    "imageKey": "img_territory_learning"
+  },
+  {
+    "id": "mission_12",
+    "dayNumber": 12,
+    "titleFa": "حل مسئله واقعی",
+    "titleEn": "Real Problem Solver",
+    "shortDescFa": "یک مشکل واقعی در خانه، مدرسه یا مطالعه را با ۴ گام حل مسئله تحلیل کن.",
+    "shortDescEn": "Analyze a real hurdle at home or school using a 4-step problem-solving loop.",
+    "storyFa": "در بخش مهندسی آزمایشگاه، مشکلی پیش آمده که با شکایت حل نمی‌شود، اما با تحلیل چراغ‌ها دوباره روشن می‌شوند.",
+    "storyEn": "A snag appeared in the lab—complaining won't fix it, but calm engineering unlocks the solution.",
+    "goalFa": "تمرین تبدیل گله‌مندی به راه‌حل‌های عملی و آزمایش‌پذیر",
+    "goalEn": "Shift from frustration to testable practical options.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_creativity", "skill_responsibility"],
+    "relatedInterests": ["int_engineering", "int_games", "int_entrepreneur"],
+    "toolsFa": ["دفترچه یا راهنمای حل مسئله در «همراه من»"],
+    "toolsEn": ["Journal or Problem Solving Lab in My Companion"],
+    "stepsFa": [
+      "یک مشکل کوچک اما واقعی که این هفته داشتی را دقیق بنویس.",
+      "سه علت احتمالی آن را پیدا کن.",
+      "حداقل سه راه‌حل بنویس (بدون حذف سریع ایده‌ها).",
+      "بهترین راه‌حل برای امتحان کردن در ۲۴ ساعت آینده را انتخاب کن."
+    ],
+    "stepsEn": [
+      "State one real snag you faced this week clearly in one sentence.",
+      "List up to 3 root causes.",
+      "Brainstorm at least 3 distinct solutions.",
+      "Pick one solution to test within the next 24 hours."
+    ],
+    "expectedOutputFa": "تعریف مسئله + ۳ راه‌حل + انتخاب ۱ آزمایش ۲۴ ساعته",
+    "expectedOutputEn": "Clear problem statement + 3 options + 1 chosen 24-hour test.",
+    "shortVersionFa": "در ۵ دقیقه برای یک گره امروزت ۲ راه‌حل متفاوت بنویس.",
+    "shortVersionEn": "In 5 minutes, write 2 different ways around one obstacle today.",
+    "reflectionQuestionsFa": [
+      "دیدن چند راه‌حل هم‌زمان چه حسی به تو داد؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How did having three options change how stuck you felt?"
+    ],
+    "startGuideFa": "مشکل را طوری بنویس که قابل تغییر باشد؛ مثلاً به جای «حوصله‌ام سر می‌رود» بگو «بعد از ۱۰ دقیقه تمرکز خسته می‌شوم».",
+    "startGuideEn": "Frame the problem so you have control—focus on what you can adjust.",
+    "territoryId": "territory_learning",
+    "imageKey": "img_territory_learning"
+  },
+  {
+    "id": "mission_13",
+    "dayNumber": 13,
+    "titleFa": "تمرین استمرار",
+    "titleEn": "Steady Momentum",
+    "shortDescFa": "یک کار مهارتی را با سرعت آهسته اما منظم در ۳ نوبت کوتاه ۵ دقیقه‌ای تمرین کن.",
+    "shortDescEn": "Practice one skill steadily through three calm 5-minute rounds.",
+    "storyFa": "در ماراتن یادگیری، برنده کسی نیست که روز اول بدود و خسته شود؛ برنده کسی است که ریتم ملایم خودش را پیدا کند.",
+    "storyEn": "In learning, steady footsteps beat frantic sprints that burn you out on day one.",
+    "goalFa": "درک قدرت گام‌های کوچک و تداوم بدون فشار",
+    "goalEn": "Feel the power of small, sustainable momentum without burnout.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_focus", "skill_responsibility"],
+    "relatedInterests": ["int_sports", "int_music", "int_coding"],
+    "toolsFa": ["تایمر ساده و مهارت انتخابی"],
+    "toolsEn": ["Simple timer + your chosen skill"],
+    "stepsFa": [
+      "یک تمرین کوچک انتخاب کن (طراحی، کد، زبان، ورزش، موسیقی یا خواندن).",
+      "نوبت اول: ۵ دقیقه تمرکز کامل، سپس ۱ دقیقه استراحت.",
+      "نوبت دوم: ۵ دقیقه تکرار و اصلاح یک نکته.",
+      "نوبت سوم: ۵ دقیقه جمع‌بندی و مقایسه با نوبت اول."
+    ],
+    "stepsEn": [
+      "Pick one repeatable skill drill.",
+      "Round 1: 5 focused minutes + 1 minute stretch break.",
+      "Round 2: 5 minutes refining one small detail.",
+      "Round 3: 5 minutes wrapping up and comparing with Round 1."
+    ],
+    "expectedOutputFa": "گزارش تفاوت نوبت اول و سوم در ۱۵ دقیقه",
+    "expectedOutputEn": "Comparison note between Round 1 and Round 3.",
+    "shortVersionFa": "در ۵ دقیقه فقط یک راند کوتاه و باکیفیت انجام بده.",
+    "shortVersionEn": "Do one clean 5-minute focus round today.",
+    "reflectionQuestionsFa": [
+      "بین نوبت اول و سوم چه پیشرفت ریزی دیدی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What tiny improvement showed up between Round 1 and Round 3?"
+    ],
+    "startGuideFa": "استراحت ۱ دقیقه‌ای بین نوبت‌ها خیلی مهم است؛ اجازه بده مغزت نفس بکشد.",
+    "startGuideEn": "Keep the 1-minute breather between rounds—it helps your brain consolidate.",
+    "territoryId": "territory_learning",
+    "imageKey": "img_territory_learning"
+  },
+  {
+    "id": "mission_14",
+    "dayNumber": 14,
+    "titleFa": "نمایشگاه یادگیری",
+    "titleEn": "Learning Showcase",
+    "shortDescFa": "یک خلاصه جذاب از چیزهایی که در سرزمین یادگیری ساختی یا آموختی بساز.",
+    "shortDescEn": "Curate a mini showcase of everything you tried and learned in Learning Land.",
+    "storyFa": "درهای نمایشگاه علمی سرزمین یادگیری باز شده! زمان آن است که دستاوردهای کوچک اما واقعی‌ات را ببینی.",
+    "storyEn": "The Learning Land Science Fair is open! Step back and admire what you explored this week.",
+    "goalFa": "جمع‌بندی تجربه‌های یادگیری و تقویت اعتمادبه‌نفس واقعی",
+    "goalEn": "Celebrate real learning milestones and build evidence-based confidence.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_curiosity", "skill_planning"],
+    "relatedInterests": ["int_art", "int_science", "int_crafts"],
+    "toolsFa": ["یادداشت‌ها یا عکس‌های تمرین‌های قبلی"],
+    "toolsEn": ["Notes or photos from your recent exercises"],
+    "stepsFa": [
+      "۳ موضوعی که در این سرزمین امتحان کردی را مرور کن.",
+      "یک کارت معرفی کوتاه برای بهترین آموخته‌ات بنویس.",
+      "تصمیم بگیر آیا دوست داری یکی از آن‌ها را به پروژه شخصی تبدیل کنی."
+    ],
+    "stepsEn": [
+      "Review up to 3 topics you tested in Learning Land.",
+      "Write a short showcase card for your favorite takeaway.",
+      "Decide if any idea deserves to grow into a Project Lab build."
+    ],
+    "expectedOutputFa": "کارت نمایشگاه شامل موضوع، نکته کلیدی و گام بعدی",
+    "expectedOutputEn": "A showcase card with topic, key insight, and optional next step.",
+    "shortVersionFa": "در ۵ دقیقه مهم‌ترین مهارتی که این هفته به آن نزدیک‌تر شدی را بنویس.",
+    "shortVersionEn": "In 5 minutes, name your favorite discovery from Learning Land.",
+    "reflectionQuestionsFa": [
+      "به خودت به عنوان یک یادگیرنده مستقل چه نکته‌ای می‌گویی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What are you proudest of as an independent learner?"
+    ],
+    "startGuideFa": "نمایشگاه قرار نیست فقط برای چیزهای بزرگ باشد؛ هر نکته واقعی ارزش نمایش دارد.",
+    "startGuideEn": "Small discoveries belong in showcases just as much as giant builds.",
+    "territoryId": "territory_learning",
+    "imageKey": "img_territory_learning"
+  },
+  {
+    "id": "mission_15",
+    "dayNumber": 15,
+    "titleFa": "قانون پنج دقیقه",
+    "titleEn": "The Five-Minute Rule",
+    "shortDescFa": "یک کار که چند روز است عقب انداخته‌ای را فقط برای ۵ دقیقه شروع کن.",
+    "shortDescEn": "Start one task you've been putting off—for just 5 zero-pressure minutes.",
+    "storyFa": "به اتاق فرماندهی قدرت ذهن خوش آمدی! این‌جا اولین ابزار مخفی فرماندهان را کشف می‌کنی: شروع ۵ دقیقه‌ای.",
+    "storyEn": "Welcome to Mind Power Command! Unlock your first secret tool: the 5-Minute Launch.",
+    "goalFa": "شکستن تنش و تعلل قبل از شروع کارها بدون اجبار به تمام کردن",
+    "goalEn": "Overcome procrastination friction without forcing marathon sessions.",
+    "durationMinutes": 10,
+    "durationCategory": "SHORT",
+    "difficulty": "EASY",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_focus", "skill_responsibility"],
+    "relatedInterests": ["int_science", "int_coding", "int_books"],
+    "toolsFa": ["تایمر ۵ دقیقه‌ای"],
+    "toolsEn": ["A 5-minute timer"],
+    "stepsFa": [
+      "کاری را انتخاب کن که شروعش کمی سخت به نظر می‌رسد.",
+      "با خودت قرار بگذار: «فقط ۵ دقیقه انجامش می‌دهم؛ بعدش کاملاً آزادم متوقف شوم.»",
+      "تایمر ۵ دقیقه را بزن و اولین خط یا اولین حرکت را انجام بده.",
+      "وقتی زنگ خورد، وضعیت را بنویس: آیا دوست داشتی ادامه بدهی؟"
+    ],
+    "stepsEn": [
+      "Pick one task you've been postponing.",
+      "Make a deal with yourself: 'Only 5 minutes—then I have full permission to stop.'",
+      "Start the timer and take the very first step.",
+      "When 5 minutes end, note how you feel—keep going only if you want to."
+    ],
+    "expectedOutputFa": "تست واقعی قانون ۵ دقیقه روی یک کار مشخص",
+    "expectedOutputEn": "A real 5-minute launch test on one postponed task.",
+    "shortVersionFa": "همین الان فقط ۲ دقیقه روی یک کار عقب‌افتاده وقت بگذار.",
+    "shortVersionEn": "Spend just 2 minutes launching one small task right now.",
+    "reflectionQuestionsFa": [
+      "آیا ترس قبل از شروع از خود کار بزرگ‌تر بود؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Was starting actually easier than worrying about starting?"
+    ],
+    "startGuideFa": "مغز از کارهای مبهم و بزرگ فرار می‌کند؛ ۵ دقیقه آن را امن و کوچک می‌کند.",
+    "startGuideEn": "Brains resist huge vague tasks—5 minutes makes them safe and tiny.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_16",
+    "dayNumber": 16,
+    "titleFa": "آزمایشگاه تمرکز",
+    "titleEn": "Focus Laboratory",
+    "shortDescFa": "مدت تمرکز پیوسته‌ات را با یک آزمایش ساده اندازه بگیر و بهترین بازه خودت را کشف کن.",
+    "shortDescEn": "Measure your natural focus sweet spot with a calm experiment.",
+    "storyFa": "هر مغزی ریتم خاص خودش را دارد. در آزمایشگاه تمرکز، طول موج طلایی ذهن خودت را پیدا می‌کنی.",
+    "storyEn": "Every mind has its own rhythm. Inside the Focus Lab, discover your personal golden focus window.",
+    "goalFa": "شناخت الگوی تمرکز شخصی بدون مقایسه با دیگران",
+    "goalEn": "Discover your natural attention span without comparing yourself to anyone.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_focus", "skill_curiosity"],
+    "relatedInterests": ["int_science", "int_games", "int_coding"],
+    "toolsFa": ["یک کار نیازمند دقت + تایمر"],
+    "toolsEn": ["One detail task + timer"],
+    "stepsFa": [
+      "یک فعالیت نیازمند دقت انتخاب کن (مطالعه، حل معما، طراحی یا کد).",
+      "بدون عجله شروع کن و علامت بزن چه زمانی اولین موج حواس‌پرتی می‌آید.",
+      "۳ نفس عمیق بکش و ۵ دقیقه دیگر ادامه بده.",
+      "زمان راحت تمرکز خودت (مثلاً ۱۲ دقیقه یا ۲۰ دقیقه) را ثبت کن."
+    ],
+    "stepsEn": [
+      "Choose one attention task (reading, puzzle, sketching, or coding).",
+      "Start calmly and notice when the first urge to check something else hits.",
+      "Take 3 slow breaths and stay with it for 5 more minutes.",
+      "Record your natural focus sweet spot (e.g., 12 or 20 minutes)."
+    ],
+    "expectedOutputFa": "کشف عدد تمرکز شخصی و ۱ راهکار برای موج اول حواس‌پرتی",
+    "expectedOutputEn": "Your personal focus window + 1 tactic for the first distraction urge.",
+    "shortVersionFa": "یک جلسه ۱۰ دقیقه‌ای تک‌وظیفه‌ای (فقط یک کار هم‌زمان) را امتحان کن.",
+    "shortVersionEn": "Try one clean 10-minute single-tasking session.",
+    "reflectionQuestionsFa": [
+      "چه چیزی معمولاً تمرکز تو را قطع می‌کند؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What usually triggers your first break in attention?"
+    ],
+    "startGuideFa": "فقط یک پنجره و یک کار باز بگذار؛ چندکاره بودن دشمن تمرکز است.",
+    "startGuideEn": "Keep only one tab/task open—multitasking drains focus fast.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_17",
+    "dayNumber": 17,
+    "titleFa": "شکارچی حواس‌پرتی",
+    "titleEn": "Distraction Hunter",
+    "shortDescFa": "بزرگ‌ترین دزدهای تمرکزت را شناسایی کن و برای هرکدام تله هوشمند بساز.",
+    "shortDescEn": "Spot your top focus thieves and set clever traps so they stop hijacking your time.",
+    "storyFa": "در اتاق کنترل، آژیر حواس‌پرتی به صدا درآمده! وقتش است عوامل مزاحم را شناسایی و خنثی کنی.",
+    "storyEn": "Alert on the command deck! Spot the sneaky distraction pirates before they steer your ship off course.",
+    "goalFa": "شناسایی عوامل پرت‌کننده حواس و طراحی ۳ تغییر عملی",
+    "goalEn": "Identify distraction triggers and design 3 practical countermeasures.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_focus", "skill_planning"],
+    "relatedInterests": ["int_games", "int_science", "int_engineering"],
+    "toolsFa": ["دفترچه یا چک‌لیست آزمایشی"],
+    "toolsEn": ["Journal or quick checklist"],
+    "stepsFa": [
+      "سه چیز که دیروز تمرکزت را به هم زدند بنویس (مثلاً اعلان گوشی، شلوغی میز، گرسنگی یا سر زدن به صفحه دیگر).",
+      "برای هرکدام یک «تله متقابل» طراحی کن (مثلاً حالت مزاحم نشوید، بطری آب روی میز، بستن تب‌های اضافه).",
+      "امروز فقط یکی از این تله‌ها را واقعاً اجرا کن."
+    ],
+    "stepsEn": [
+      "Name 3 things that broke your focus yesterday (notifications, clutter, fatigue, random tabs).",
+      "Design one counter-trap for each.",
+      "Actually activate at least one trap today."
+    ],
+    "expectedOutputFa": "فهرست ۳ حواس‌پرتی + ۳ راهکار عملی شخصی",
+    "expectedOutputEn": "3 named distractions + 3 tailored counter-traps.",
+    "shortVersionFa": "در ۵ دقیقه یک مزاحم اصلی تمرکزت را نام ببر و جای گوشی را هنگام کار عوض کن.",
+    "shortVersionEn": "In 5 minutes, name your #1 distraction and move your phone out of reach for one block.",
+    "reflectionQuestionsFa": [
+      "وقتی تله حواس‌پرتی را اجرا کردی، کارت چقدر آرام‌تر پیش رفت؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How much calmer did working feel with that trap active?"
+    ],
+    "startGuideFa": "قرار نیست همه وسایل سرگرمی را حذف کنی؛ فقط موقع تمرکز جایشان را کمی دورتر بگذار.",
+    "startGuideEn": "You don't have to quit fun stuff—just add a bit of friction during focus time.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_18",
+    "dayNumber": 18,
+    "titleFa": "طراح زمان",
+    "titleEn": "Time Architect",
+    "shortDescFa": "یک نقشه انرژی روزانه بساز و ببین در چه ساعت‌هایی مغزت سرحال‌تر است.",
+    "shortDescEn": "Map your daily energy curve and place tough or creative tasks in your peak hours.",
+    "storyFa": "برنامه‌ریزی خشک شکست می‌خورد چون به انرژی تو توجه نمی‌کند. یک طراح زمان بر اساس موج انرژی نقشه می‌کشد!",
+    "storyEn": "Rigid schedules fail because they ignore energy. A Time Architect builds around peak brainwaves.",
+    "goalFa": "آشنایی با مدیریت زمان و انرژی در روزهای مدرسه و تعطیل",
+    "goalEn": "Learn energy-aware time design instead of rigid hour-stuffing.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_planning", "skill_focus"],
+    "relatedInterests": ["int_engineering", "int_entrepreneur", "int_sports"],
+    "toolsFa": ["کاغذ برای کشیدن نمودار ساده صبح/ظهر/عصر/شب"],
+    "toolsEn": ["Paper to sketch morning/afternoon/evening energy waves"],
+    "stepsFa": [
+      "روزت را به ۴ بازه صبح، بعدازظهر، عصر و شب تقسیم کن.",
+      "در هر بازه سطح انرژی ذهنی‌ات را از ۱ تا ۵ علامت بزن.",
+      "مشخص کن کارهای فکری/خلاقانه را در چه بازه‌ای بگذاری بهتر است.",
+      "یک بازه ۳۰ دقیقه‌ای فردا را برای کار دلخواهت رزرو کن."
+    ],
+    "stepsEn": [
+      "Split your day into 4 blocks: morning, afternoon, late afternoon, evening.",
+      "Rate your typical mental energy (1-5) in each block.",
+      "Match creative/hard tasks to your highest-energy slot.",
+      "Reserve one 30-minute block tomorrow for something you care about."
+    ],
+    "expectedOutputFa": "نقشه انرژی روزانه + ۱ زمان رزروشده واقعی",
+    "expectedOutputEn": "Your daily energy map + 1 reserved 30-minute focus slot.",
+    "shortVersionFa": "در ۵ دقیقه فقط بگو چه ساعتی از روز بهترین تمرکز را داری و فردا همان‌وقت یک کار مهم بگذار.",
+    "shortVersionEn": "In 5 minutes, identify your peak brain hour and plan one meaningful task there tomorrow.",
+    "reflectionQuestionsFa": [
+      "تا حالا شده یک کار سخت را در ساعت خستگی بگذاری و فکر کنی تنبلی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Have you ever tried a hard task while exhausted and blamed yourself instead of timing?"
+    ],
+    "startGuideFa": "در ساعت‌های کم‌انرژی کارهای سبک و تفریح را بگذار، نه کارهای سنگین.",
+    "startGuideEn": "Save low-energy hours for light tasks and rest—not heavy thinking.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_19",
+    "dayNumber": 19,
+    "titleFa": "مأموریت سخت‌تر",
+    "titleEn": "Level-Up Challenge",
+    "shortDescFa": "یک چالش کمی دشوارتر از معمول انتخاب کن و آن را به ۳ پله کوچک بشکن.",
+    "shortDescEn": "Pick a slightly tougher challenge and slice it into 3 climbable steps.",
+    "storyFa": "در بازی‌های ماجراجویی، مرحله‌ای جذاب است که کمی چالش داشته باشد—نه غیرممکن و نه خیلی آسان!",
+    "storyEn": "The best quests live right in the 'stretch zone'—not boringly easy, not impossible.",
+    "goalFa": "تمرین شکستن کارهای سخت به گام‌های قابل مدیریت و رشد پشتکار",
+    "goalEn": "Practice slicing intimidating tasks into calm, climbable steps.",
+    "durationMinutes": 30,
+    "durationCategory": "LONG",
+    "difficulty": "CHALLENGING",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_focus", "skill_planning", "skill_responsibility"],
+    "relatedInterests": ["int_coding", "int_science", "int_games", "int_engineering"],
+    "toolsFa": ["ابزار چالش انتخابی + تایمر"],
+    "toolsEn": ["Materials for your stretch challenge + timer"],
+    "stepsFa": [
+      "یک کار یا معمای کمی چالشی انتخاب کن (یک فصل سخت، یک مسئله الگوریتمی، یک پروژه فنی).",
+      "به جای فکر کردن به کل آن، فقط ۳ پله اولش را بنویس.",
+      "پله اول و دوم را با آرامش انجام بده؛ اگر به بن‌بست خوردی، ۱ سؤال دقیق بنویس.",
+      "فراموش نکن استراحت بین مراحل مجاز و مفید است."
+    ],
+    "stepsEn": [
+      "Choose a stretch challenge (a tricky puzzle, a coding bug, a tough chapter, or detailed craft).",
+      "Break it into just 3 mini-steps before starting.",
+      "Tackle steps 1 and 2 calmly; if stuck, write down one exact question.",
+      "Take a breather if needed, then record how far you climbed."
+    ],
+    "expectedOutputFa": "تجربه شکستن یک چالش سخت و پیشرفت حداقل تا پله ۲",
+    "expectedOutputEn": "Breakdown of a tough task + progress through at least Step 2.",
+    "shortVersionFa": "در ۱۰ دقیقه فقط یک کار سخت را روی کاغذ به ۴ قدم خیلی کوچک تقسیم کن.",
+    "shortVersionEn": "In 10 minutes, break one intimidating task into 4 tiny, friendly steps.",
+    "reflectionQuestionsFa": [
+      "وقتی به گره خوردی، چه واکنشی نشان دادی و چی کمکت کرد؟"
+    ],
+    "reflectionQuestionsEn": [
+      "When you hit a snag, what helped you keep your cool?"
+    ],
+    "startGuideFa": "گیر کردن در چالش سخت یعنی مغزت دقیقاً الان دارد عضله می‌سازد!",
+    "startGuideEn": "Getting stuck briefly means your brain is literally growing stronger right now.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_20",
+    "dayNumber": 20,
+    "titleFa": "طراحی محیط موفقیت",
+    "titleEn": "Design Your Launchpad",
+    "shortDescFa": "میز یا فضای کار و یادگیری‌ات را طوری بچین که شروع کار باهاش لذت‌بخش شود.",
+    "shortDescEn": "Redesign your study or maker corner so starting feels inviting and effortless.",
+    "storyFa": "فضانوردان قبل از پرواز، کابین را دقیق می‌چینند تا هر ابزار سر جایش باشد. نوبت کابین شخصی توست!",
+    "storyEn": "Astronauts organize their cockpit before launch so every tool is within reach. Time to tune your space!",
+    "goalFa": "استفاده از طراحی محیط برای حمایت از تمرکز و خلاقیت",
+    "goalEn": "Shape your physical workspace to support focus and creativity.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_planning", "skill_responsibility"],
+    "relatedInterests": ["int_art", "int_crafts", "int_engineering"],
+    "toolsFa": ["میز یا گوشه مطالعه فعلی‌ات"],
+    "toolsEn": ["Your desk or study corner"],
+    "stepsFa": [
+      "همه چیزهای اضافی که ربطی به کار الان ندارند را از روی میز بردار.",
+      "نور، جای نشستن و یک بطری آب را تنظیم کن.",
+      "یک چیز الهام‌بخش (گیاه، نقاشی، نوشته انگیزشی یا ابزار مورد علاقه) روی میز بگذار.",
+      "ببین چیدمان جدید چه حسی به تو می‌دهد."
+    ],
+    "stepsEn": [
+      "Clear off items unrelated to what you build or study.",
+      "Adjust lighting, seating comfort, and keep water nearby.",
+      "Add one inspiring touch (a sketch, plant, tool, or quote).",
+      "Test sitting down for 5 minutes and notice the difference."
+    ],
+    "expectedOutputFa": "تغییر واقعی چیدمان محیط کار + ثبت حس قبل و بعد",
+    "expectedOutputEn": "A refreshed workspace + before-and-after reflection.",
+    "shortVersionFa": "در ۵ دقیقه فقط سطح میزت را خلوت و آماده شروع کن.",
+    "shortVersionEn": "In 5 minutes, clear your desk surface so it feels ready for action.",
+    "reflectionQuestionsFa": [
+      "کدام تغییر کوچک در اتاقت بیشترین آرامش را آورد؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Which tiny tweak to your space made the biggest difference?"
+    ],
+    "startGuideFa": "یک محیط تمیز و ساده ذهن را سبک می‌کند.",
+    "startGuideEn": "A clutter-free surface gives your mind instant breathing room.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_21",
+    "dayNumber": 21,
+    "titleFa": "انتخاب آگاهانه",
+    "titleEn": "Conscious Choice",
+    "shortDescFa": "یک تصمیم واقعی پیش رویت را با ترازوی پیامدها، ارزش‌ها و علایق بررسی کن.",
+    "shortDescEn": "Weigh one real upcoming choice using values, pros/cons, and long-term impact.",
+    "storyFa": "در تقاطع مسیرها، کاوشگران حرفه‌ای به جای دنبال کردن جمع، خودشان آگاهانه جهت را انتخاب می‌کنند.",
+    "storyEn": "At crossroads, wise explorers choose their own heading instead of blindly following the crowd.",
+    "goalFa": "تقویت مهارت تصمیم‌گیری مستقل و پذیرش مسئولیت انتخاب",
+    "goalEn": "Practice thoughtful decision-making and owning your choices.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_responsibility", "skill_planning"],
+    "relatedInterests": ["int_books", "int_entrepreneur", "int_games"],
+    "toolsFa": ["دفترچه یا جدول دو گزینه‌ای"],
+    "toolsEn": ["Journal or quick 2-option comparison"],
+    "stepsFa": [
+      "یک انتخاب واقعی این هفته را بنویس (مثلاً ثبت‌نام در یک کلاس، نحوه گذراندن آخر هفته، انتخاب موضوع پروژه).",
+      "برای هر گزینه بنویس: «بهترین حالتش چیست؟» و «اگر سخت شد چطور مدیریتش می‌کنم؟»",
+      "ببین کدام گزینه بیشتر با ارزش‌ها و علایق خودت جور درمی‌آید.",
+      "تصمیم آگاهانه‌ات را ثبت کن."
+    ],
+    "stepsEn": [
+      "Write one real choice on your plate this week.",
+      "For each option note: best outcome + how you'd handle a challenge.",
+      "Check which option matches your real values and interests.",
+      "Commit to your conscious choice."
+    ],
+    "expectedOutputFa": "تحلیل دو گزینه + انتخاب آگاهانه و دلیلش",
+    "expectedOutputEn": "Comparison of options + your reasoned decision.",
+    "shortVersionFa": "در ۵ دقیقه برای یک انتخاب امروزت فقط یک «چرا؟» روشن بنویس.",
+    "shortVersionEn": "In 5 minutes, write one clear 'why' behind a choice you made today.",
+    "reflectionQuestionsFa": [
+      "وقتی خودت با دلیل تصمیم می‌گیری، چه تفاوتی با اجبار دارد؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How does owning your reason change how you feel about a choice?"
+    ],
+    "startGuideFa": "تصمیم خوب یعنی تصمیمی که دلیلش را خودت قبول داری، حتی اگر کامل نباشد.",
+    "startGuideEn": "A good choice is one whose reasons you stand behind.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_22",
+    "dayNumber": 22,
+    "titleFa": "آزمون فرمانده ذهن",
+    "titleEn": "Mind Commander Trial",
+    "shortDescFa": "یک جلسه ۲۵ دقیقه‌ای ترکیبی: آماده‌سازی محیط، قانون ۵ دقیقه، تمرکز و بازتاب.",
+    "shortDescEn": "Combine workspace prep, the 5-minute launch, a focus block, and reflection in one trial.",
+    "storyFa": "چراغ‌های مرکز فرماندهی روشن است! وقت آن است همه ابزارهای سرزمین قدرت ذهن را یک‌جا آزمایش کنی.",
+    "storyEn": "Command deck lights are green! Combine everything you learned in Mind Power Land in one smooth run.",
+    "goalFa": "یکپارچه‌سازی مهارت‌های تمرکز، مدیریت حواس‌پرتی و خودانضباطی",
+    "goalEn": "Combine focus, distraction defense, and calm follow-through.",
+    "durationMinutes": 25,
+    "durationCategory": "MEDIUM",
+    "difficulty": "CHALLENGING",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_focus", "skill_responsibility", "skill_planning"],
+    "relatedInterests": ["int_science", "int_coding", "int_engineering"],
+    "toolsFa": ["میز آماده + تایمر + کار مهم دلخواه"],
+    "toolsEn": ["Prepared workspace + timer + one meaningful task"],
+    "stepsFa": [
+      "۲ دقیقه میز را مرتب و حواس‌پرتی‌ها را دور کن.",
+      "هدف مشخص این ۲۵ دقیقه را بنویس.",
+      "با قانون ۵ دقیقه شروع کن و ۲۰ دقیقه با تمرکز پیش برو.",
+      "در ۳ دقیقه آخر دستاوردت را ثبت و از خودت قدردانی کن."
+    ],
+    "stepsEn": [
+      "Spend 2 minutes clearing distractions and prepping your desk.",
+      "Write one crisp goal for this 20-minute focus block.",
+      "Launch with the 5-Minute Rule and stay steady for 20 minutes.",
+      "Log what you accomplished in the final 3 minutes."
+    ],
+    "expectedOutputFa": "تکمیل یک جلسه تمرکز کامل با خروجی مشخص",
+    "expectedOutputEn": "One complete focus sprint with a concrete output.",
+    "shortVersionFa": "یک جلسه ۱۰ دقیقه‌ای بدون اعلان گوشی انجام بده و نتیجه‌اش را بنویس.",
+    "shortVersionEn": "Run one 10-minute notification-free sprint and log the result.",
+    "reflectionQuestionsFa": [
+      "آماده عبور به شهر آینده‌سازان هستی؟ چه ابزاری از این سرزمین را با خودت می‌بری؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Which Mind Power habit are you taking with you into Future Makers City?"
+    ],
+    "startGuideFa": "فرمانده بودن یعنی با خودت مهربان و در عین حال مصمم باشی.",
+    "startGuideEn": "Commanding your focus means being firm with distractions and kind to yourself.",
+    "territoryId": "territory_mind",
+    "imageKey": "img_territory_mind"
+  },
+  {
+    "id": "mission_23",
+    "dayNumber": 23,
+    "titleFa": "انتخاب مأموریت بزرگ",
+    "titleEn": "Choose Your Big Quest",
+    "shortDescFa": "یک ایده واقعی انتخاب کن که دوست داری در هفته پایانی به یک پروژه شخصی تبدیلش کنی.",
+    "shortDescEn": "Pick an exciting real idea to turn into your signature project for the final stretch.",
+    "storyFa": "به شهر آینده‌سازان خوش آمدی! اینجا تمام آموخته‌هایت جمع می‌شوند تا پروژه واقعی خودت را بسازی.",
+    "storyEn": "Welcome to Future Makers City! Everything you practiced comes together to launch your own real project.",
+    "goalFa": "انتخاب موضوع پروژه شخصی بر اساس علایق و توانایی‌های کشف‌شده",
+    "goalEn": "Select a motivating personal project aligned with your discovered interests.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_planning", "skill_creativity"],
+    "relatedInterests": ["int_robotics", "int_coding", "int_art", "int_crafts", "int_books"],
+    "toolsFa": ["آزمایشگاه پروژه‌ها در همین برنامه"],
+    "toolsEn": ["The in-app Project Lab"],
+    "stepsFa": [
+      "۳ ایده پروژه بنویس (مثلاً بازی کوتاه، ماکت، داستان مصور، تحقیق علمی، پوستر آموزشی، ربات ساده).",
+      "ببین کدام ایده بیشتر هیجان‌زده‌ات می‌کند و در ۶ تا ۷ روز قابل شروع است.",
+      "هدف نهایی پروژه را در یک جمله روشن بنویس.",
+      "در آزمایشگاه پروژه‌ها یک پروژه جدید بساز."
+    ],
+    "stepsEn": [
+      "List 3 project ideas (a mini game, model, comic/story, science study, poster, or DIY gadget).",
+      "Pick the one that excites you most and feels doable this week.",
+      "Write your project's goal in one clear sentence.",
+      "Create the project inside your Project Lab!"
+    ],
+    "expectedOutputFa": "ثبت ایده و هدف یک پروژه شخصی جدید",
+    "expectedOutputEn": "A chosen personal project idea and clear goal.",
+    "shortVersionFa": "در ۵ دقیقه فقط عنوان و هدف پروژه رویایی کوچکت را بنویس.",
+    "shortVersionEn": "In 5 minutes, write the title and 1-sentence goal of your mini project.",
+    "reflectionQuestionsFa": [
+      "چرا این پروژه برای خودت جذاب است؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Why does this project excite you personally?"
+    ],
+    "startGuideFa": "پروژه کوچک و تمام‌شده هزار برابر بهتر از پروژه غول‌پیکر و ناتمام است!",
+    "startGuideEn": "A small finished project beats a giant unfinished one every time.",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  },
+  {
+    "id": "mission_24",
+    "dayNumber": 24,
+    "titleFa": "نقشه پنج‌مرحله‌ای",
+    "titleEn": "Five-Step Blueprint",
+    "shortDescFa": "پروژه شخصی‌ات را به ۵ گام مشخص، کوتاه و قابل علامت‌گذاری تقسیم کن.",
+    "shortDescEn": "Break your personal project into 5 crisp, checkable build milestones.",
+    "storyFa": "هیچ شهر آینده‌ای بدون نقشه مهندسی ساخته نمی‌شود. امروز نقشه ۵ مرحله‌ای پروژه‌ات را طراحی می‌کنی.",
+    "storyEn": "No future city rises without a blueprint. Today you draw the 5-step plan for your project.",
+    "goalFa": "یادگیری طراحی نقشه گام‌به‌گام پروژه",
+    "goalEn": "Learn structured milestone planning for independent projects.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_planning", "skill_creativity"],
+    "relatedInterests": ["int_engineering", "int_coding", "int_entrepreneur"],
+    "toolsFa": ["آزمایشگاه پروژه‌ها یا کاغذ طرح"],
+    "toolsEn": ["Project Lab steps editor or blueprint sheet"],
+    "stepsFa": [
+      "مرحله ۱ (آماده‌سازی و طرح اولیه) را بنویس.",
+      "مراحل ۲ تا ۴ (ساخت بخش‌های اصلی) را مشخص کن.",
+      "مرحله ۵ (تست، اصلاح و آماده‌سازی برای نمایش) را تعریف کن.",
+      "همه ۵ مرحله را در صفحه پروژه‌ات ذخیره کن."
+    ],
+    "stepsEn": [
+      "Define Step 1 (prep & initial sketch).",
+      "Define Steps 2-4 (building the core pieces).",
+      "Define Step 5 (testing, polishing, and wrapping up).",
+      "Save all 5 milestones inside your Project Lab entry."
+    ],
+    "expectedOutputFa": "نقشه ۵ مرحله‌ای ثبت‌شده برای پروژه شخصی",
+    "expectedOutputEn": "A 5-milestone blueprint saved to your project.",
+    "shortVersionFa": "در ۵ دقیقه ۳ مرحله اول پروژه‌ات را بنویس.",
+    "shortVersionEn": "In 5 minutes, write the first 3 steps of your project.",
+    "reflectionQuestionsFa": [
+      "کدام مرحله آسان‌تر به نظر می‌رسد تا از آن شروع کنی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Which step looks easiest to kick off first?"
+    ],
+    "startGuideFa": "هر مرحله را طوری بنویس که در ۱۵ تا ۳۰ دقیقه قابل انجام باشد.",
+    "startGuideEn": "Size each milestone so it fits into one 15-30 minute session.",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  },
+  {
+    "id": "mission_25",
+    "dayNumber": 25,
+    "titleFa": "مسئولیت واقعی",
+    "titleEn": "Real Ownership",
+    "shortDescFa": "یک تعهد کوچک اما واقعی برای خودت یا محیط اطرافت بردار و تا پایان انجامش بده.",
+    "shortDescEn": "Take on one meaningful real-world responsibility and follow through cleanly.",
+    "storyFa": "آینده‌سازان فقط رؤیا نمی‌بینند؛ آن‌ها با کارهای قابل اعتماد نشان می‌دهند می‌توان رویشان حساب کرد.",
+    "storyEn": "Future Makers don't just dream—they show through reliable action that they can be counted on.",
+    "goalFa": "تجربه لذت و افتخار ناشی از مسئولیت‌پذیری داوطلبانه",
+    "goalEn": "Experience the quiet pride of voluntary responsibility and follow-through.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_responsibility", "skill_focus"],
+    "relatedInterests": ["int_nature", "int_sports", "int_entrepreneur"],
+    "toolsFa": ["اختیار خودت"],
+    "toolsEn": ["Your own initiative"],
+    "stepsFa": [
+      "یک مسئولیت واقعی و مفید انتخاب کن (مثلاً مرتب‌کردن یک بخش مشترک خانه، مراقبت از گیاه/حیوان خانگی، کمک در یک کار یا پیگیری منظم مرحله اول پروژه‌ات).",
+      "زمانش را خودت تعیین کن.",
+      "آن را کامل و بدون بهانه انجام بده.",
+      "حست را بعد از اتمام بنویس."
+    ],
+    "stepsEn": [
+      "Choose one real helpful responsibility (organizing a shared space, caring for a plant/pet, helping someone, or hitting Milestone 1).",
+      "Pick when you will do it.",
+      "Complete it cleanly from start to finish.",
+      "Note how following through felt."
+    ],
+    "expectedOutputFa": "انجام یک مسئولیت واقعی + بازتاب شخصی",
+    "expectedOutputEn": "One completed real responsibility + personal reflection.",
+    "shortVersionFa": "امروز داوطلبانه یک کار کوچک مفید در خانه یا مدرسه را بر عهده بگیر.",
+    "shortVersionEn": "Volunteer for one small helpful task today and finish it cleanly.",
+    "reflectionQuestionsFa": [
+      "چه تفاوتی بین کاری که خودت بر عهده می‌گیری و کاری که به تو گفته می‌شود حس کردی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How did choosing a responsibility yourself differ from being told to do it?"
+    ],
+    "startGuideFa": "کوچک اما واقعی بودن کلید این مأموریت است.",
+    "startGuideEn": "Keep it genuine and realistic—small commitments done well build huge trust.",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  },
+  {
+    "id": "mission_26",
+    "dayNumber": 26,
+    "titleFa": "مدیریت منابع",
+    "titleEn": "Resource Strategist",
+    "shortDescFa": "منابع پروژه‌ات (زمان، وسایل، دانش، کمک دیگران) را فهرست و هوشمندانه مدیریت کن.",
+    "shortDescEn": "Inventory your project's time, tools, skills, and support—and spot smart shortcuts.",
+    "storyFa": "یک مهندس آینده‌ساز با کمترین امکانات بهترین نتیجه را می‌سازد چون می‌داند چه منابعی در دستش هست.",
+    "storyEn": "Great makers build amazing things with simple resources by mapping what they already have.",
+    "goalFa": "آشنایی با مدیریت زمان، ابزار و کمک گرفتن هوشمندانه",
+    "goalEn": "Practice resource awareness: time, materials, knowledge, and asking for help.",
+    "durationMinutes": 15,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_planning", "skill_creativity"],
+    "relatedInterests": ["int_entrepreneur", "int_engineering", "int_crafts"],
+    "toolsFa": ["فهرست ۴ ستونی منابع"],
+    "toolsEn": ["4-bucket resource list"],
+    "stepsFa": [
+      "زمان: این هفته دقیقاً چند نیم‌ساعت آزاد برای پروژه داری؟",
+      "ابزار: چه وسایلی الان دم دستت هست و چه جایگزین رایگانی برای بقیه پیدا می‌کنی؟",
+      "دانش: چه نکته‌ای را باید یاد بگیری؟",
+      "حمایت: از چه کسی می‌توانی مشورت بگیری؟"
+    ],
+    "stepsEn": [
+      "Time: how many 30-minute slots do you have this week?",
+      "Tools: what materials are already on hand or free?",
+      "Knowledge: what one thing do you need to look up?",
+      "Support: who could give helpful feedback?"
+    ],
+    "expectedOutputFa": "نقشه ۴ منبعی پروژه + یک جایگزین خلاقانه برای کمبود ابزار",
+    "expectedOutputEn": "4-part resource plan + 1 creative zero-cost workaround.",
+    "shortVersionFa": "در ۵ دقیقه بنویس چه وسایلی برای مرحله بعدی پروژه‌ات همین الان در خانه هست.",
+    "shortVersionEn": "In 5 minutes, list tools already at home you can reuse for your project.",
+    "reflectionQuestionsFa": [
+      "چطور محدودیت ابزار می‌تواند خلاقیتت را بیشتر کند؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How can limited tools actually boost creativity?"
+    ],
+    "startGuideFa": "قبل از خرید هر وسیله‌ای، ببین با چیزهای موجود چه راه‌حلی می‌سازی.",
+    "startGuideEn": "Before buying anything, test what you can invent from everyday items.",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  },
+  {
+    "id": "mission_27",
+    "dayNumber": 27,
+    "titleFa": "شروع پروژه شخصی",
+    "titleEn": "Project Launch",
+    "shortDescFa": "آستین‌ها را بالا بزن و مراحل اول و دوم پروژه شخصی‌ات را عملاً بساز.",
+    "shortDescEn": "Roll up your sleeves and complete the first real building blocks of your project.",
+    "storyFa": "شمارش معکوس روی سکوی پرتاب به صفر رسید! امروز زمان تبدیل نقشه به سازه واقعی است.",
+    "storyEn": "Countdown hits zero at the launchpad! Today your blueprint becomes real action.",
+    "goalFa": "پیشبرد عملی پروژه شخصی و ثبت مراحل و فایل‌ها/عکس‌ها",
+    "goalEn": "Build tangible progress on your personal project and document it.",
+    "durationMinutes": 40,
+    "durationCategory": "LONG",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_creativity", "skill_focus", "skill_responsibility"],
+    "relatedInterests": ["int_robotics", "int_coding", "int_crafts", "int_art", "int_books"],
+    "toolsFa": ["وسایل پروژه + آزمایشگاه پروژه‌های برنامه"],
+    "toolsEn": ["Your project materials + in-app Project Lab"],
+    "stepsFa": [
+      "پروژه‌ات را در آزمایشگاه پروژه‌ها باز کن و وضعیتش را به «در حال انجام» تغییر بده.",
+      "حداقل ۳۰ دقیقه روی مرحله ۱ و ۲ کار کن.",
+      "یک یادداشت پیشرفت و در صورت تمایل عکس یا فایل نمونه به پروژه اضافه کن.",
+      "اگر مرحله‌ای کامل شد، تیکش را بزن."
+    ],
+    "stepsEn": [
+      "Open your project in Project Lab and set status to 'In Progress'.",
+      "Work hands-on for 30+ minutes on Milestones 1 & 2.",
+      "Add a progress note and attach a photo or draft file if you like.",
+      "Check off completed milestones."
+    ],
+    "expectedOutputFa": "پیشرفت واقعی در پروژه + ثبت یادداشت یا ضمیمه",
+    "expectedOutputEn": "Real project progress + saved milestone/note/attachment.",
+    "shortVersionFa": "در ۱۵ دقیقه فقط اولین قطعه یا پیش‌نویس پروژه‌ات را بساز.",
+    "shortVersionEn": "Spend 15 minutes building just the very first piece of your project.",
+    "reflectionQuestionsFa": [
+      "کار واقعی روی پروژه خودت چه حسی داشت؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How did it feel to see your own project start taking shape?"
+    ],
+    "startGuideFa": "پیشرفت خودکار ذخیره می‌شود؛ حتی اگر ۵۰٪ پیش رفتی، عالی است.",
+    "startGuideEn": "Progress auto-saves—even reaching 40% today is real momentum.",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  },
+  {
+    "id": "mission_28",
+    "dayNumber": 28,
+    "titleFa": "مهندس حل مشکل",
+    "titleEn": "Debug & Fix Engineer",
+    "shortDescFa": "نقص‌ها یا گره‌هایی که هنگام ساخت پروژه دیدی را پیدا و یک‌به‌یک برطرف کن.",
+    "shortDescEn": "Spot rough edges or bugs in your project and systematically improve them.",
+    "storyFa": "هیچ اختراعی در اولین آزمایش بی‌نقص نیست. مهندسان واقعی با عیب‌یابی آرام پروژه را درخشان می‌کنند.",
+    "storyEn": "No real invention works flawlessly on test #1. Real engineers debug calmly and iterate.",
+    "goalFa": "یادگیری بهبود تدریجی، آزمایش و رفع اشکال بدون ناامیدی",
+    "goalEn": "Practice iterative debugging and testing without frustration.",
+    "durationMinutes": 30,
+    "durationCategory": "LONG",
+    "difficulty": "CHALLENGING",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_creativity", "skill_focus", "skill_responsibility"],
+    "relatedInterests": ["int_engineering", "int_coding", "int_robotics"],
+    "toolsFa": ["نسخه فعلی پروژه + چک‌لیست تست"],
+    "toolsEn": ["Current project draft + test notes"],
+    "stepsFa": [
+      "پروژه‌ات را با چشم یک آزمایشگر تست کن: چه بخشی خوب است و چه بخشی لنگ می‌زند؟",
+      "دو اشکال یا نقطه قابل بهبود را یادداشت کن.",
+      "هر دو را اصلاح کن و دوباره تست بگیر.",
+      "تغییر مثبتی که ایجاد شد را در یادداشت پروژه بنویس."
+    ],
+    "stepsEn": [
+      "Test your project with fresh eyes: what works well, what feels clunky?",
+      "Pick 2 specific things to fix or improve.",
+      "Apply both improvements and re-test.",
+      "Record what got better in your project notes."
+    ],
+    "expectedOutputFa": "تست پروژه + رفع حداقل ۲ ایراد یا ارتقای کیفیت",
+    "expectedOutputEn": "Project test + 2 concrete fixes or upgrades.",
+    "shortVersionFa": "در ۱۰ دقیقه یک ایراد کوچک پروژه‌ات را پیدا و بهتر کن.",
+    "shortVersionEn": "In 10 minutes, spot and polish one rough spot in your project.",
+    "reflectionQuestionsFa": [
+      "چه چیز تازه‌ای موقع عیب‌یابی یاد گرفتی؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What did debugging teach you that planning alone couldn't?"
+    ],
+    "startGuideFa": "پیدا کردن اشکال نشانه شکست نیست؛ نشانه چشم تیزبین مهندس است!",
+    "startGuideEn": "Finding a flaw isn't failure—it's your engineer eyes spotting an upgrade!",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  },
+  {
+    "id": "mission_29",
+    "dayNumber": 29,
+    "titleFa": "نمایش دستاورد",
+    "titleEn": "Present Your Creation",
+    "shortDescFa": "نتیجه نهایی پروژه‌ات را تکمیل کن و در صورت تمایل برای ارائه آماده‌اش کن.",
+    "shortDescEn": "Polish your project's final outcome and prepare a crisp showcase summary.",
+    "storyFa": "تخته‌سنگ شهر آینده‌سازان آماده نمایش ساخته‌های توست! وقت معرفی افتخارآمیز دستاوردت است.",
+    "storyEn": "The Future Makers Expo stage is lit! Present the story of what you imagined and built.",
+    "goalFa": "تمرین جمع‌بندی، ثبت نتیجه نهایی و ارائه شفاف دستاورد",
+    "goalEn": "Practice summarizing outcomes clearly and choosing what to share.",
+    "durationMinutes": 25,
+    "durationCategory": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "activityStyle": "PRACTICAL",
+    "socialStyle": "FLEXIBLE",
+    "relatedSkills": ["skill_responsibility", "skill_creativity", "skill_planning"],
+    "relatedInterests": ["int_art", "int_entrepreneur", "int_books", "int_science"],
+    "toolsFa": ["آزمایشگاه پروژه‌ها"],
+    "toolsEn": ["Project Lab"],
+    "stepsFa": [
+      "نتیجه نهایی پروژه را در آزمایشگاه پروژه‌ها ثبت کن و در صورت تکمیل، وضعیت را روی «تکمیل‌شده» بگذار.",
+      "یک معرفی ۳ جمله‌ای بنویس: هدف چه بود، چه ساختی و چه یاد گرفتی؟",
+      "خودت انتخاب کن آیا می‌خواهی این پروژه در «اتاق خانواده» دیده شود یا خصوصی بماند."
+    ],
+    "stepsEn": [
+      "Record your final outcome in Project Lab and mark status 'Completed' when ready.",
+      "Write a 3-sentence showcase: Goal, What you built, What you learned.",
+      "Decide whether to keep it private or toggle 'Share with Family Room'."
+    ],
+    "expectedOutputFa": "ثبت نتیجه نهایی پروژه + خلاصه ارائه ۳ جمله‌ای",
+    "expectedOutputEn": "Final project outcome + 3-sentence presentation summary.",
+    "shortVersionFa": "در ۵ دقیقه نتیجه تا اینجای پروژه‌ات را در ۳ جمله خلاصه کن.",
+    "shortVersionEn": "In 5 minutes, summarize your project progress so far in 3 sentences.",
+    "reflectionQuestionsFa": [
+      "اگر دوستت این پروژه را ببیند، چه چیزی در موردش برایت جالب‌تر است؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What part of your project are you most proud to show?"
+    ],
+    "startGuideFa": "اشتراک‌گذاری کاملاً به انتخاب خودت است؛ مهم این است که خودت ارزش تلاشت را ببینی.",
+    "startGuideEn": "Sharing is always your choice—what matters most is seeing your own growth.",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  },
+  {
+    "id": "mission_30",
+    "dayNumber": 30,
+    "titleFa": "آغاز مسیر جدید",
+    "titleEn": "A New Horizon Begins",
+    "shortDescFa": "کل سفر ۳۰ روزه‌ات را مرور کن و نقشه ماجراجویی بعدی خودت را طراحی کن.",
+    "shortDescEn": "Reflect on your 30-day journey and design the very first chapter of your next adventure.",
+    "storyFa": "به قله شهر آینده‌سازان رسیدی؛ اما این پایان ماجراجویی نیست—اینجا جایی است که سفر واقعی تو آغاز می‌شود!",
+    "storyEn": "You reached the summit of Future Makers City—not an ending, but the launchpad of your own ongoing path!",
+    "goalFa": "قدردانی از مسیر رشد شخصی و طراحی گام مستقل بعدی",
+    "goalEn": "Celebrate your personal evolution and design your next self-directed chapter.",
+    "durationMinutes": 20,
+    "durationCategory": "MEDIUM",
+    "difficulty": "EASY",
+    "activityStyle": "REFLECTIVE",
+    "socialStyle": "SOLO",
+    "relatedSkills": ["skill_planning", "skill_curiosity", "skill_responsibility", "skill_focus", "skill_creativity"],
+    "relatedInterests": ["int_space", "int_science", "int_books", "int_entrepreneur"],
+    "toolsFa": ["نقشه ماجراجویی + گزارش پیشرفت + دفترچه خصوصی"],
+    "toolsEn": ["Adventure Map + Progress Report + Private Journal"],
+    "stepsFa": [
+      "نگاهی به نقشه ماجراجویی، مهارت‌ها و دستاوردهایت بینداز.",
+      "سه تغییری که در خودت نسبت به روز اول حس می‌کنی را بنویس.",
+      "بنویس پروژه یا مهارت بعدی که بدون برنامه هم دوست داری ادامه بدهی چیست.",
+      "برای خودت یک پیام تبریک قهرمانانه در دفترچه خصوصی بنویس!"
+    ],
+    "stepsEn": [
+      "Review your Adventure Map, Skills, and Achievements.",
+      "Write 3 shifts you notice in yourself compared to Day 1.",
+      "Name the next skill or project you want to explore on your own.",
+      "Write a celebratory note to yourself in your Private Journal!"
+    ],
+    "expectedOutputFa": "توصیف ۳ رشد شخصی + طرح مسیر مستقل بعدی",
+    "expectedOutputEn": "3 noticed personal shifts + your next independent exploration plan.",
+    "shortVersionFa": "در ۵ دقیقه بهترین خاطره و مهم‌ترین درسی که در این سفر گرفتی را بنویس.",
+    "shortVersionEn": "In 5 minutes, write your favorite memory and biggest lesson from this journey.",
+    "reflectionQuestionsFa": [
+      "حالا خودت را چطور توصیف می‌کنی؟",
+      "اولین ماجراجویی بعدی‌ات چیست؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How would you describe yourself as an explorer now?",
+      "What is your very next adventure?"
+    ],
+    "startGuideFa": "مهم نیست چند روز طول کشیده؛ همین که مسیرت را شناختی، یک سازنده واقعی آینده هستی.",
+    "startGuideEn": "However many days it took, you discovered your own way of learning and building.",
+    "territoryId": "territory_future",
+    "imageKey": "img_territory_future"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "skills": [
+    {
+      "id": "skill_curiosity",
+      "nameFa": "کنجکاوی و یادگیری",
+      "nameEn": "Curiosity & Learning",
+      "descriptionFa": "توانایی پرسیدن سؤال‌های خوب، جست‌وجوی مستقل و لذت بردن از کشف چیزهای تازه.",
+      "descriptionEn": "Asking sharp questions, exploring independently, and enjoying the thrill of learning new things.",
+      "iconKey": "explore",
+      "colorHex": "0xFF00B4D8"
+    },
+    {
+      "id": "skill_focus",
+      "nameFa": "تمرکز و خودانضباطی",
+      "nameEn": "Focus & Self-Discipline",
+      "descriptionFa": "توانایی هدایت توجه، کنار گذاشتن حواس‌پرتی‌ها و پایبندی آرام به تصمیم‌های خودت.",
+      "descriptionEn": "Guiding your attention, handling distractions, and following through calmly on your own plans.",
+      "iconKey": "center_focus",
+      "colorHex": "0xFF6C63FF"
+    },
+    {
+      "id": "skill_creativity",
+      "nameFa": "خلاقیت و حل مسئله",
+      "nameEn": "Creativity & Problem Solving",
+      "descriptionFa": "نگاه تازه به چالش‌ها، یافتن راه‌حل‌های متنوع و تبدیل ایده‌ها به چیزهای واقعی.",
+      "descriptionEn": "Looking at challenges from fresh angles, inventing options, and turning ideas into tangible builds.",
+      "iconKey": "lightbulb",
+      "colorHex": "0xFFFF7A2F"
+    },
+    {
+      "id": "skill_responsibility",
+      "nameFa": "مسئولیت‌پذیری",
+      "nameEn": "Ownership & Responsibility",
+      "descriptionFa": "پذیرش نتیجه انتخاب‌هایت، مراقبت از تعهدهای کوچک و یادگیری از تجربه‌های واقعی.",
+      "descriptionEn": "Owning your choices, keeping small promises to yourself and others, and learning from experience.",
+      "iconKey": "verified_user",
+      "colorHex": "0xFF1B9E77"
+    },
+    {
+      "id": "skill_planning",
+      "nameFa": "برنامه‌ریزی و آینده‌نگری",
+      "nameEn": "Planning & Future Design",
+      "descriptionFa": "شکستن هدف‌های بزرگ به گام‌های قابل انجام، مدیریت زمان و ترسیم مسیر پیش رو.",
+      "descriptionEn": "Breaking big goals into clear steps, managing time and resources, and mapping your path ahead.",
+      "iconKey": "route",
+      "colorHex": "0xFFFFC145"
+    }
+  ],
+  "interests": [
+    { "id": "int_science", "nameFa": "علم و فناوری", "nameEn": "Science & Tech", "iconKey": "science" },
+    { "id": "int_coding", "nameFa": "برنامه‌نویسی", "nameEn": "Coding", "iconKey": "code" },
+    { "id": "int_robotics", "nameFa": "رباتیک", "nameEn": "Robotics", "iconKey": "smart_toy" },
+    { "id": "int_nature", "nameFa": "طبیعت", "nameEn": "Nature", "iconKey": "eco" },
+    { "id": "int_space", "nameFa": "فضا و نجوم", "nameEn": "Space & Astronomy", "iconKey": "rocket" },
+    { "id": "int_art", "nameFa": "هنر و طراحی", "nameEn": "Art & Design", "iconKey": "palette" },
+    { "id": "int_music", "nameFa": "موسیقی", "nameEn": "Music", "iconKey": "music_note" },
+    { "id": "int_sports", "nameFa": "ورزش", "nameEn": "Sports", "iconKey": "sports_soccer" },
+    { "id": "int_crafts", "nameFa": "ساخت وسایل", "nameEn": "Making & Crafts", "iconKey": "build" },
+    { "id": "int_books", "nameFa": "داستان و کتاب", "nameEn": "Stories & Books", "iconKey": "menu_book" },
+    { "id": "int_history", "nameFa": "تاریخ", "nameEn": "History", "iconKey": "account_balance" },
+    { "id": "int_games", "nameFa": "بازی و معما", "nameEn": "Games & Puzzles", "iconKey": "extension" },
+    { "id": "int_entrepreneur", "nameFa": "کارآفرینی", "nameEn": "Entrepreneurship", "iconKey": "storefront" },
+    { "id": "int_engineering", "nameFa": "مهندسی", "nameEn": "Engineering", "iconKey": "engineering" }
+  ]
+}

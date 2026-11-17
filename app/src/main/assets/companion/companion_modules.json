@@ -1,0 +1,332 @@
+[
+  {
+    "id": "comp_goal_setting",
+    "titleFa": "هدف‌گذاری هوشمند",
+    "titleEn": "Smart Goal Setting",
+    "subtitleFa": "تبدیل یک آرزو به نقشه روشن و قابل اجرا",
+    "subtitleEn": "Turn a wish into a clear, doable plan",
+    "iconKey": "flag",
+    "steps": [
+      {
+        "id": "gs_1",
+        "titleFa": "انتخاب هدف",
+        "titleEn": "Choose One Goal",
+        "promptFa": "دوست داری در دو هفته آینده به چه نتیجه مشخصی برسی؟ (کوتاه و روشن بنویس)",
+        "promptEn": "What specific result would you like to reach in the next two weeks?",
+        "tipFa": "هر بار فقط یک هدف اصلی انتخاب کن تا انرژیت پخش نشود.",
+        "tipEn": "Pick one main goal at a time so your energy stays focused."
+      },
+      {
+        "id": "gs_2",
+        "titleFa": "بررسی اهمیت",
+        "titleEn": "Why It Matters",
+        "promptFa": "چرا این هدف برای خودت مهم است و چه حسی بعد از انجامش داری؟",
+        "promptEn": "Why does this goal matter to you, and how will completing it feel?",
+        "tipFa": "وقتی دلیل درونی‌ات را بدانی، در روزهای خستگی راحت‌تر ادامه می‌دهی.",
+        "tipEn": "Knowing your inner 'why' helps you keep going on low-energy days."
+      },
+      {
+        "id": "gs_3",
+        "titleFa": "تعیین نتیجه قابل مشاهده",
+        "titleEn": "Define the Visible Result",
+        "promptFa": "از کجا می‌فهمی به هدفت رسیدی؟ خروجی نهایی دقیقاً چیست؟",
+        "promptEn": "How will you know you succeeded? What can you show or test at the end?",
+        "tipFa": "مثلاً به جای «زبان بخوانم» بگو «یک داستان کوتاه انگلیسی را خلاصه کنم».",
+        "tipEn": "Instead of 'study more', try 'build a 3-slide mini guide or working prototype'."
+      },
+      {
+        "id": "gs_4",
+        "titleFa": "تقسیم به مراحل کوچک",
+        "titleEn": "Break Into Small Steps",
+        "promptFa": "کوچک‌ترین قدم اولی که همین امروز می‌توانی برداری چیست؟",
+        "promptEn": "What is the tiniest first step you can do in 10 minutes today?",
+        "tipFa": "قدم اول باید آن‌قدر کوچک باشد که اصلاً ترسناک نباشد.",
+        "tipEn": "Make step one small enough that starting feels effortless."
+      }
+    ]
+  },
+  {
+    "id": "comp_problem_solving",
+    "titleFa": "حل مسئله مهندسی",
+    "titleEn": "Problem Solving Lab",
+    "subtitleFa": "شش گام برای حل گره‌های واقعی زندگی و پروژه",
+    "subtitleEn": "Six practical steps to untangle real problems",
+    "iconKey": "extension",
+    "steps": [
+      {
+        "id": "ps_1",
+        "titleFa": "تعریف دقیق مسئله",
+        "titleEn": "Define the Problem",
+        "promptFa": "مشکل دقیقاً چیست و چه زمانی رخ می‌دهد؟",
+        "promptEn": "What exactly is the problem, and when does it happen?",
+        "tipFa": "نوشتن مسئله روی کاغذ نصف راه حل آن است.",
+        "tipEn": "Writing the problem clearly is already half the solution."
+      },
+      {
+        "id": "ps_2",
+        "titleFa": "جمع‌آوری اطلاعات",
+        "titleEn": "Gather Clues",
+        "promptFa": "تا الان چه چیزهایی را امتحان کرده‌ای و چه چیزهایی را هنوز نمی‌دانی؟",
+        "promptEn": "What have you observed so far, and what facts are still missing?",
+        "tipFa": "بدون قضاوت، فقط شواهد را جمع کن.",
+        "tipEn": "Collect clues calmly before jumping to conclusions."
+      },
+      {
+        "id": "ps_3",
+        "titleFa": "یافتن چند راه‌حل",
+        "titleEn": "Brainstorm 3 Options",
+        "promptFa": "حداقل سه راه‌حل متفاوت (حتی عجیب!) پیشنهاد بده:",
+        "promptEn": "List at least three different ideas—even bold or unusual ones:",
+        "tipFa": "اولین ایده همیشه بهترین ایده نیست؛ به ذهنت اجازه تنوع بده.",
+        "tipEn": "The first idea isn't always the best; give yourself multiple options."
+      },
+      {
+        "id": "ps_4",
+        "titleFa": "مقایسه و انتخاب",
+        "titleEn": "Compare & Pick One",
+        "promptFa": "کدام راه‌حل با وقت و ابزارهای فعلی‌ات عملی‌تر است؟",
+        "promptEn": "Which option fits your current time and tools best?",
+        "tipFa": "راه‌حلی را بردار که همین هفته بتوانی تستش کنی.",
+        "tipEn": "Choose an option you can actually test this week."
+      },
+      {
+        "id": "ps_5",
+        "titleFa": "آزمایش",
+        "titleEn": "Run a Small Test",
+        "promptFa": "در مقیاس کوچک چه آزمایشی انجام می‌دهی؟",
+        "promptEn": "How will you test this idea on a small scale?",
+        "tipFa": "آزمایش کوچک یعنی اگر نشد هم چیز زیادی از دست نمی‌دهی و کلی یاد می‌گیری.",
+        "tipEn": "Small tests make learning safe—if it fails, you still gain insight."
+      },
+      {
+        "id": "ps_6",
+        "titleFa": "ارزیابی نتیجه",
+        "titleEn": "Evaluate & Adjust",
+        "promptFa": "چه بخشی خوب کار کرد و چه بخشی نیاز به تغییر دارد؟",
+        "promptEn": "What worked well, and what would you tweak next?",
+        "tipFa": "هر آزمایش موفق یا ناموفق، داده ارزشمندی برای قدم بعدی است.",
+        "tipEn": "Every outcome gives you useful feedback for round two."
+      }
+    ]
+  },
+  {
+    "id": "comp_learning",
+    "titleFa": "راهنمای یادگیری مستقل",
+    "titleEn": "Independent Learning",
+    "subtitleFa": "روش یادگیری هر مهارتی بدون وابستگی",
+    "subtitleEn": "Learn any skill on your own step by step",
+    "iconKey": "school",
+    "steps": [
+      {
+        "id": "lr_1",
+        "titleFa": "انتخاب موضوع",
+        "titleEn": "Pick Your Topic",
+        "promptFa": "چه مهارت یا موضوعی را می‌خواهی یاد بگیری؟",
+        "promptEn": "What topic or skill are you excited to explore?",
+        "tipFa": "سراغ چیزی برو که واقعاً کنجکاوت می‌کند.",
+        "tipEn": "Start with something that genuinely sparks your curiosity."
+      },
+      {
+        "id": "lr_2",
+        "titleFa": "پیدا کردن منابع خوب",
+        "titleEn": "Find Reliable Sources",
+        "promptFa": "از چه کتاب، ویدئو، فرد باتجربه یا سایت معتبری کمک می‌گیری؟",
+        "promptEn": "Which book, mentor, or trusted source can help you start?",
+        "tipFa": "دو منبع خوب کافی است؛ در منابع غرق نشو.",
+        "tipEn": "Two solid sources beat twenty open tabs."
+      },
+      {
+        "id": "lr_3",
+        "titleFa": "یادداشت‌برداری به زبان خودت",
+        "titleEn": "Summarize in Your Words",
+        "promptFa": "سه نکته کلیدی که فهمیدی را به زبان ساده خودت بنویس:",
+        "promptEn": "Write 3 key takeaways using your own words:",
+        "tipFa": "کپی نکن؛ خلاصه‌کردن با کلمات خودت مغز را فعال می‌کند.",
+        "tipEn": "Paraphrasing forces your brain to actually understand."
+      },
+      {
+        "id": "lr_4",
+        "titleFa": "تمرین عملی",
+        "titleEn": "Hands-On Practice",
+        "promptFa": "چطور همین امروز این نکته را عملاً امتحان می‌کنی؟",
+        "promptEn": "How can you practice this hands-on for 15 minutes?",
+        "tipFa": "یادگیری واقعی وقتی اتفاق می‌افتد که از دانسته‌هایت استفاده کنی.",
+        "tipEn": "Real learning happens when you apply what you read."
+      },
+      {
+        "id": "lr_5",
+        "titleFa": "آموزش به دیگری",
+        "titleEn": "Teach It Simply",
+        "promptFa": "اگر بخواهی این موضوع را در دو دقیقه برای یک دوست توضیح بدهی چه می‌گویی؟",
+        "promptEn": "How would you explain this to a friend in two minutes?",
+        "tipFa": "اگر بتوانی ساده توضیحش بدهی، یعنی واقعاً یاد گرفته‌ای.",
+        "tipEn": "If you can explain it simply, you truly own the concept."
+      }
+    ]
+  },
+  {
+    "id": "comp_focus",
+    "titleFa": "اتاق تمرکز",
+    "titleEn": "Focus Sanctuary",
+    "subtitleFa": "آماده‌سازی ذهن و محیط برای کار عمیق",
+    "subtitleEn": "Prepare your mind and space for deep work",
+    "iconKey": "center_focus",
+    "steps": [
+      {
+        "id": "fc_1",
+        "titleFa": "شناسایی حواس‌پرتی",
+        "titleEn": "Spot Distractions",
+        "promptFa": "الان چه چیزهایی بیشتر حواست را پرت می‌کنند؟ (اعلان، سروصدا، خستگی...)",
+        "promptEn": "What is most likely to pull your attention right now?",
+        "tipFa": "شناخت دشمن تمرکز نصف پیروزی است.",
+        "tipEn": "Naming distractions makes them easier to handle."
+      },
+      {
+        "id": "fc_2",
+        "titleFa": "آماده‌سازی محیط",
+        "titleEn": "Set Up Your Space",
+        "promptFa": "چه تغییر ۳۰ ثانیه‌ای در میز یا گوشی‌ات می‌دهی؟",
+        "promptEn": "What 30-second change will clear your desk or phone?",
+        "tipFa": "گوشی را در حالت مزاحم نشوید یا دورتر بگذار.",
+        "tipEn": "Put your phone on silent or out of reach during your sprint."
+      },
+      {
+        "id": "fc_3",
+        "titleFa": "تعیین زمان کوتاه",
+        "titleEn": "Pick a Time Block",
+        "promptFa": "چند دقیقه قرار است با آرامش تمرکز کنی؟ (مثلاً ۱۰ یا ۲۰ دقیقه)",
+        "promptEn": "How many minutes is your calm focus block? (e.g., 10 or 20 min)",
+        "tipFa": "زمان کوتاه با کیفیت بهتر از ساعت‌های طولانی با حواس‌پرتی است.",
+        "tipEn": "15 focused minutes beat 2 distracted hours."
+      },
+      {
+        "id": "fc_4",
+        "titleFa": "شروع با یک گام کوچک",
+        "titleEn": "Start One Tiny Action",
+        "promptFa": "فقط اولین کار ۵ دقیقه‌ای الان چیست؟",
+        "promptEn": "What is the exact 5-minute starter action you'll begin with?",
+        "tipFa": "قانون ۵ دقیقه: فقط ۵ دقیقه شروع کن؛ بعدش خودت تصمیم بگیر ادامه بدهی یا نه.",
+        "tipEn": "5-Minute Rule: commit to 5 minutes, then decide freely."
+      }
+    ]
+  },
+  {
+    "id": "comp_project",
+    "titleFa": "مدیریت پروژه شخصی",
+    "titleEn": "Project Blueprint",
+    "subtitleFa": "از ایده خام تا ساخت و ارائه یک دستاورد",
+    "subtitleEn": "From spark of an idea to finished showcase",
+    "iconKey": "build",
+    "steps": [
+      {
+        "id": "pm_1",
+        "titleFa": "تعریف ایده",
+        "titleEn": "Spark the Idea",
+        "promptFa": "می‌خواهی چه چیزی بسازی یا خلق کنی؟",
+        "promptEn": "What do you want to create, code, write, or build?",
+        "tipFa": "ایده لازم نیست کامل باشد؛ همین که هیجان‌زده‌ات کند کافی است.",
+        "tipEn": "An idea doesn't need to be perfect to begin—just exciting."
+      },
+      {
+        "id": "pm_2",
+        "titleFa": "تعیین هدف پروژه",
+        "titleEn": "Project Purpose",
+        "promptFa": "این پروژه چه کمکی می‌کند یا چه چیز تازه‌ای به تو یاد می‌دهد؟",
+        "promptEn": "What will this project teach you or solve?",
+        "tipFa": "هدف شفاف مانع رها کردن کار در نیمه راه می‌شود.",
+        "tipEn": "A clear purpose keeps you anchored halfway through."
+      },
+      {
+        "id": "pm_3",
+        "titleFa": "طراحی مراحل",
+        "titleEn": "Design Milestones",
+        "promptFa": "سه تا پنج مرحله اصلی این پروژه را فهرست کن:",
+        "promptEn": "List 3 to 5 clear milestones from start to finish:",
+        "tipFa": "هر مرحله باید آن‌قدر مشخص باشد که تیک‌زدنش حس پیشرفت بدهد.",
+        "tipEn": "Keep milestones concrete so checking each one feels rewarding."
+      },
+      {
+        "id": "pm_4",
+        "titleFa": "مدیریت منابع",
+        "titleEn": "Tools & Time",
+        "promptFa": "چه وسایل، فایل‌ها یا راهنمایی‌هایی نیاز داری؟",
+        "promptEn": "What materials, files, or advice do you need?",
+        "tipFa": "اول با وسایل ساده و در دسترس شروع کن.",
+        "tipEn": "Start with simple tools you already have around you."
+      },
+      {
+        "id": "pm_5",
+        "titleFa": "ثبت پیشرفت",
+        "titleEn": "Track Progress",
+        "promptFa": "هر بار که روی پروژه کار کردی، چه یادداشت یا عکسی ثبت می‌کنی؟",
+        "promptEn": "What note or photo will you save after each work session?",
+        "tipFa": "آزمایشگاه پروژه‌ها در برنامه جای عالی برای ثبت این‌هاست!",
+        "tipEn": "Use the Project Lab to keep your photos, files, and notes organized."
+      },
+      {
+        "id": "pm_6",
+        "titleFa": "ارائه نتیجه",
+        "titleEn": "Share Your Outcome",
+        "promptFa": "نتیجه نهایی را چطور برای خودت یا خانواده نمایش می‌دهی؟",
+        "promptEn": "How will you showcase your finished project?",
+        "tipFa": "اگر دوست داشتی می‌توانی فقط پروژه‌های دلخواهت را با اتاق خانواده هم‌رسانی کنی.",
+        "tipEn": "You stay in charge—share only the projects you choose."
+      }
+    ]
+  },
+  {
+    "id": "comp_critical_thinking",
+    "titleFa": "کارگاه تفکر انتقادی",
+    "titleEn": "Critical Thinking Lab",
+    "subtitleFa": "تشخیص اطلاعات معتبر از شایعه و نظر شخصی",
+    "subtitleEn": "Tell solid facts apart from rumors & opinions",
+    "iconKey": "fact_check",
+    "steps": [
+      {
+        "id": "ct_1",
+        "titleFa": "بررسی منبع",
+        "titleEn": "Check the Source",
+        "promptFa": "این ادعا یا خبر از کجا آمده و نویسنده‌اش کیست؟",
+        "promptEn": "Where did this claim come from, and who created it?",
+        "tipFa": "خبر بدون منبع معتبر مثل نقشه‌ای است که قطب‌نما ندارد.",
+        "tipEn": "A claim without a trustworthy source is like a map without a compass."
+      },
+      {
+        "id": "ct_2",
+        "titleFa": "تشخیص واقعیت از نظر",
+        "titleEn": "Fact vs Opinion",
+        "promptFa": "کدام بخش قابل اثبات است (واقعیت) و کدام بخش احساس یا سلیقه است (نظر)؟",
+        "promptEn": "Which part can be proven (fact) and which is personal feeling (opinion)?",
+        "tipFa": "کلماتی مثل «بهترین» یا «همیشه» معمولاً نشانه نظر هستند.",
+        "tipEn": "Words like 'best' or 'always' often signal an opinion."
+      },
+      {
+        "id": "ct_3",
+        "titleFa": "مقایسه شواهد",
+        "titleEn": "Compare Evidence",
+        "promptFa": "آیا دو منبع مستقل دیگر هم همین موضوع را تأیید می‌کنند؟",
+        "promptEn": "Do at least two independent sources support this claim?",
+        "tipFa": "هیچ‌وقت فقط به یک پست یا یک ویدئو اکتفا نکن.",
+        "tipEn": "Never rely on just a single viral post or video."
+      },
+      {
+        "id": "ct_4",
+        "titleFa": "شناسایی فرض‌های پنهان",
+        "titleEn": "Spot Hidden Assumptions",
+        "promptFa": "چه چیزی بدون دلیل قطعی درست فرض شده است؟",
+        "promptEn": "What is being assumed true without strong proof?",
+        "tipFa": "پرسیدن «از کجا معلوم؟» نشانه ذهن هوشمند است.",
+        "tipEn": "Asking 'How do we know?' is a superpower of sharp thinkers."
+      },
+      {
+        "id": "ct_5",
+        "titleFa": "ارزیابی و جمع‌بندی",
+        "titleEn": "Form Your Conclusion",
+        "promptFa": "با توجه به شواهد، نتیجه‌گیری منصفانه تو چیست؟",
+        "promptEn": "Based on the evidence, what is your fair conclusion?",
+        "tipFa": "تغییر نظر وقتی مدرک بهتری پیدا می‌کنی نشان بلوغ فکری است.",
+        "tipEn": "Updating your view when better evidence appears is real wisdom."
+      }
+    ]
+  }
+]

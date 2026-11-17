@@ -1,0 +1,6 @@
+{
+  "name": "My Journey",
+  "description": "مسیر من | My Journey - یک جهان ماجراجویی آفلاین برای کشف توانایی‌ها، یادگیری مستقل و ساختن آینده نوجوانان ۱۲ تا ۱۴ سال",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
